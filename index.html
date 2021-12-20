@@ -5,7 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Xariflaw DKP</title>
+  <title>NTV Pug DKP</title>
   <!-- plugins:css -->
   <link rel="stylesheet" href="assets/vendors/mdi/css/materialdesignicons.min.css">
   <!-- Layout styles -->
@@ -33,7 +33,7 @@
     <nav class="sidebar sidebar-offcanvas" id="sidebar">
       <div class="sidebar-brand-wrapper d-none d-lg-flex align-items-center justify-content-center fixed-top">
         <a class="sidebar-brand brand-logo" href="index.html">
-          <h4>Xariflaw DKP</h4>
+          <h4>NTV Pug DKP</h4>
         </a>
         <a class="sidebar-brand brand-logo-mini" href="index.html">
           <h4>DKP</h4>
@@ -209,19 +209,19 @@
 
   var dkp_data = [];
 
-  jQuery.get('https://knoxz.github.io/dkp.csv', function (data) {
+  jQuery.get('https://vacabonariel.github.io/Nariel/dkp.csv', function (data) {
     dkp_data = csvJSON(data);
     console.log("DKP");
     console.log(dkp_data);
     dkp_table.setData(dkp_data);
   });
-  jQuery.get('https://knoxz.github.io/dkp_history.csv', function (data) {
+  jQuery.get('https://vacabonariel.github.io/Nariel/dkp_history.csv', function (data) {
     let dkp_history_data = csvJSON(data);
     console.log("DKP_History");
     console.log(dkp_history_data);
     DKPHistory_table.setData(dkp_history_data);
   });
-  jQuery.get('https://knoxz.github.io/loot_history.csv', function (data) {
+  jQuery.get('https://vacabonariel.github.io/Nariel/loot_history.csv', function (data) {
     let loot_history_data = csvJSON(data);
     console.log("Loot_History");
     console.log(loot_history_data);
@@ -325,54 +325,6 @@
       { title: "Boss", field: "boss" },
       { title: "Date", field: "date", formatter: date_formatter, width: 175 },
       { title: "Cost", field: "cost", width: 90 },
-    ]
-  });
-
-  var tableData = [
-    { id: 1, player: "Designflawz", profession: "Leatherworking", item: { id: "30303" } },
-    { id: 2, player: "Designflawz", profession: "Leatherworking", item: { id: "30301" } },
-    { id: 2, player: "Keyan", profession: "Tailoring", item: { id: "30280" } },
-    { id: 2, player: "Gnomorah", profession: "Blacksmithing", item: { id: "30322" } },
-  ];
-
-  console.log(tableData);
-  var crafter_table = new Tabulator("#Crafter_table", {
-    data: tableData,
-    layout: "fitColumns", //fit columns to width of table (optional)
-    groupBy: ["profession"],
-    groupValues: [["Leatherworking", "Blacksmithing", "Tailoring"]],
-    // groupHeader: [
-    //   function (value, count, data) { //generate header contents for gender groups
-    //     return value + "<span style='color:#d00; margin-left:10px;'>(" + count + " item)</span>";
-    //   },
-    //   function (value, count, data) { //generate header contents for color groups
-    //     class_color = "#0dd"
-    //     dkp_data.forEach(element => {
-    //       if (element.player == value) {
-    //         class_color = class_colors[element.class];
-    //       }
-    //     });
-    //     return "<span style='color:" + class_color + "; margin-left:10px;'>" + value + "</span>";
-    //   },
-    // ],
-    rowFormatter: function (row) {
-      dkp_data.forEach(element => {
-        if (element.player == row.getData().player) {
-          row.getElement().style.color = class_colors[element.class];
-        }
-      })
-      row.getElement().style.color = class_colors[row.getData().class];
-
-    },
-    columns: [ //Define Table Columns
-      // player,class,DKP,previousDKP,lifetimeGained,lifetimeSpent
-      { title: "Player", field: "player", width: 150 },
-      {
-        title: "Item", field: "item", formatter: item_links, sorter: function (a, b, aRow, bRow, column, dir, sorterParams) {
-          return a.id - b.id; //you must return the difference between the two values
-        },
-      },
-      // { title: "Profession", field: "profession" },
     ]
   });
 
