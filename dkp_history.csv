@@ -1,80 +1,38 @@
-player,itemName,itemNumber,zone,boss,date,cost
-Fridge,"Fang of the Leviathan",30095,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641244300,-101
-Portia,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1641240273,-100
-Hotmeplz,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1641239755,0
-Tanuki,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1641239675,0
-Kvitravn,"Pauldrons of the Vanquished Defender",30249,"Tempest Keep",Void Reaver,1641239592,-101
-Pheneal,"Sunshower Light Cloak",29989,"Tempest Keep",Kael'thas Sunstrider,1641239156,-103
-Meatboypizza,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1641239039,0
-Morenia,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1641238998,-20
-Schnugge,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1641238951,-103
-Noelleon,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1641238878,0
-Kvitravn,"Earring of Soulful Meditation",30665,"Tempest Keep",Kael'thas Sunstrider,1641238787,0
-Kvitravn,"Earring of Soulful Meditation",30665,"Tempest Keep",Kael'thas Sunstrider,1641238784,0
-Morenia,"World Breaker",30090,"Tempest Keep",Al'ar,1641238178,0
-Marvelous,"Fang of Vashj",30103,"Tempest Keep",Al'ar,1641238103,0
-Marvelous,"Razor-Scale Battlecloak",30098,"Tempest Keep",Al'ar,1641238040,0
-Morenia,"Leggings of the Vanquished Champion",30245,"Tempest Keep",Al'ar,1641237923,0
-Wollepetry,"Gloves of the Vanquished Defender",30240,"Tempest Keep",Al'ar,1641237844,0
-Morenia,"Gloves of the Vanquished Champion",30239,"Tempest Keep",Al'ar,1641237791,0
-Fabilicious,"Arcanite Steam-Pistol",29949,"Tempest Keep",Al'ar,1641237672,0
-Judgementals,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234189,0
-Nexiana,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234168,0
-Marvelous,"Pauldrons of the Wardancer",30053,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641233301,0
-Vècón,"Gloves of the Vanquished Hero",30241,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640636380,0
-Ruzak,"Fang of the Leviathan",30095,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640636317,-100
-Vècón,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635816,0
-Chelios,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635801,0
-Nariel,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635297,0
-Morenia,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635147,0
-Noelleon,"Mallet of the Tides",30058,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634715,0
-Elessartwo,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634644,-102
-Gûârdina,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634568,-80
-Saufisaufi,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634529,-100
-Judgementals,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640633760,0
-Wollepetry,"Pauldrons of the Wardancer",30053,"Tempest Keep",Kael'thas Sunstrider,1640632794,0
-Kair,"Boots of the Shifting Nightmare",30050,"Tempest Keep",Kael'thas Sunstrider,1640632731,0
-Chelios,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1640632434,-101
-Nexiana,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1640632360,-20
-Nexiana,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632309,-20
-Gûârdina,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632248,-20
-Kair,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640631560,-103
-Saufisaufi,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630832,0
-Nexiana,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630723,0
-Vècón,"Star-Strider Boots",29951,"Tempest Keep",High Astromancer Solarian,1640630643,-20
-Goatboi,"Worldstorm Gauntlets",29976,"Tempest Keep",High Astromancer Solarian,1640630550,-100
-Meatboypizza,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640630047,0
-Kvitravn,"Cowl of the Grand Engineer",29986,"Tempest Keep",Void Reaver,1640629949,0
-Chelios,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640629875,0
-Tanuki,"Gloves of the Searing Grip",29947,"Tempest Keep",Al'ar,1640629016,0
-Morenia,"Phoenix-Ring of Rebirth",29920,"Tempest Keep",Al'ar,1640628935,0
-Noelleon,"Talon of Azshara",30082,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640031613,-101
-Kvitravn,"Illidari Shoulderpads",30079,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640031573,0
-Gûârdina,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031233,0
-Morenia,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031060,0
-Wollepetry,"Girdle of the Invulnerable",30096,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030377,0
-Nexiana,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030330,0
-Tanuki,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030313,0
-Eludria,"Wildfury Greatstaff",30021,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029922,0
-Wollepetry,"Fang of Vashj",30103,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029700,0
-Nariel,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029143,-100
-Tanuki,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029074,-102
-Kvitravn,"Lightfathom Scepter",30108,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029006,-103
-Kvitravn,"Boots of the Shifting Nightmare",30050,"Tempest Keep",Kael'thas Sunstrider,1640028072,0
-Fabilicious,"Ring of Lethality",30052,"Tempest Keep",Kael'thas Sunstrider,1640028013,-101
-Tanuki,"Leggings of Murderous Intent",29995,"Tempest Keep",Kael'thas Sunstrider,1640027070,0
-Rhovas,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1640026992,-100
-Wollepetry,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1640026950,-60
-Saufisaufi,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640026847,-103
-Gûârdina,"The Nexus Key",29988,"Tempest Keep",Kael'thas Sunstrider,1640026804,-103
-Portia,"Nether Vortex",30183,"Tempest Keep",High Astromancer Solarian,1640026139,0
-Meatboypizza,"Vambraces of Ending",29966,"Tempest Keep",High Astromancer Solarian,1640025858,0
-Ruzak,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1640025749,-101
-Marvelous,"Nether Vortex",30183,"Tempest Keep",Void Reaver,1640025487,0
-Eludria,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1640025209,0
-Gûârdina,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025141,0
-Morenia,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025118,0
-Kvitravn,"Nether Vortex",30183,"Tempest Keep",Al'ar,1640024627,0
-Rhovas,"Arcanite Steam-Pistol",29949,"Tempest Keep",Al'ar,1640024387,0
-Portia,"Mindstorm Wristbands",29918,"Tempest Keep",Al'ar,1640024312,-102
-Kvitravn,"Nether Vortex",30183,"Tempest Keep",Phoenix-Hawk,1640023717,0
+player,DKP,date,reason
+"Fridge,Hotmeplz,Judgementals,Kvitravn,Laveria,Marvelous,Meatboypizza,Morenia,Pheneal,Portia,Schnugge",99,-1,-1,99,-1,-1,-1,17,99,99,99,-100%,1641244472,"Raid - Reset"
+"Nariel,Grünerbusch,Hotmeplz,Meatboypizza,Sianna,Rhovas,Laveria,Chelios,Fridge,Judgementals,Saufisaufi,Pheneal,Miara,Kvitravn,Schnugge,Fabilicious,Tanuki,Morenia,Nexiana,Gûârdina,Ruzak,Portia,Marvelous,Noelleon,Wollepetry",1,1641244443,"Raid Completion Bonus"
+"Hotmeplz",103,1641232314,"Other - Start DKP"
+"Chelios,Elessartwo,Gûârdina,Judgementals,Kair,Laveria,Nexiana,Ruzak,Saufisaufi,Vècón,Goatboi",99,99,99,-1,99,-1,38,99,99,18,99,-100%,1640636783,"Raid - Reset"
+"Grünerbusch,Nariel,Pnemea,Meatboypizza,Sianna,Vècón,Laveria,Fridge,Chelios,Judgementals,Saufisaufi,Miara,Kvitravn,Fabilicious,Tanuki,Morenia,Nexiana,Goatboi,Gûârdina,Ruzak,Elessartwo,Kair,Marvelous,Wollepetry,Noelleon",1,1640636737,"Raid Completion Bonus"
+"Grünerbusch",101,1640627128,"Other - StartDKP"
+"Goatboi",100,1640627115,"Other - StartDKP"
+"Pnemea",100,1640627092,"Other - StartDKP"
+"Fridge",100,1640627087,"Other - StartDKP"
+"Kvitravn,Kair,Portia,Laveria,Judgementals,Ruzak,Fabilicious,Nariel,Rhovas,Wollepetry,Saufisaufi,Gûârdina,Tanuki,Noelleon",99,-1,98,-1,-1,99,99,99,99,59,99,99,99,99,-100%,1640032099,"Raid - Reset"
+"Kvitravn,Tanuki,Fabilicious,Noelleon,Nariel,Rhovas,Ruzak,Gûârdina,Saufisaufi,Portia,Wollepetry,Nexiana,Morenia,Eludria,Miara,Vècón,Chelios,Marvelous,Meatboypizza,Elessartwo,Pheneal,Schnugge,Judgementals,Laveria,Kair",1,1640032090,"Raid Completion Bonus"
+"Noelleon",101,1640023218,"Other - Start DKP"
+"Tanuki",102,1640023131,"Other - Start DKP"
+"Gûârdina",103,1640023037,"Other - Start DKP"
+"Pheneal",102,1640023030,"Other - Start DKP"
+"Elessartwo",101,1640023021,"Other - Start DKP"
+"Nexiana",100,1640022693,"Other - Start DKP"
+"Schnugge",102,1640022533,"Other - Start DKP"
+"Saufisaufi",103,1640022403,"Other - Start DKP"
+"Miara",100,1640022191,"Other - Start DKP"
+"Portia",103,1640022184,"Other - Start DKP"
+"Vècón",100,1640022175,"Other - Start DKP"
+"Eludria",100,1640022169,"Other - Start DKP"
+"Morenia",100,1640022040,"Other - Start DKP"
+"Laveria",103,1640022033,"Other - Start DKP"
+"Meatboypizza",101,1640022027,"Other - Start DKP"
+"Kvitravn",103,1640022018,"Other - Start DKP"
+"Marvelous",101,1640022006,"Other - Start DKP"
+"Ruzak",101,1640022000,"Other - Start DKP"
+"Chelios",100,1640021993,"Other - Start DKP"
+"Kair",103,1640021986,"Other - Start DKP"
+"Rhovas",100,1640021689,"Other - Start DKP"
+"Sianna",100,1640021685,"Other - Start DKP"
+"Wollepetry",100,1640021294,"Other - Start DKP"
+"Nariel",100,1640020603,"Other - Start DKP"
+"Fabilicious",101,1640020596,"Other - Start DKP"
+"Judgementals",103,1640020582,"Other - Start DKP"
