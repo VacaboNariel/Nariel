@@ -198,10 +198,12 @@
       for (var j = 0; j < headers.length; j++) {
         obj[headers[j]] = currentline[j];
       }
-
-      result.push(obj);
+      if (obj["player"] != '') {
+        result.push(obj);
+      }
 
     }
+    console.log(result);
 
     //return result; //JavaScript object
     return result; //JSON
