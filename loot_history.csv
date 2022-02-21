@@ -1,109 +1,127 @@
 player,itemName,itemNumber,zone,boss,date,cost
-Saufisaufi,"Girdle of Stability",32333,"Black Temple",Gurtogg Bloodboil,1644269045,0
-Eludria,"Belt of Primal Majesty",32339,"Black Temple",Gurtogg Bloodboil,1644269008,-20
-Goatboi,"Shroud of the Final Stand",34012,"Black Temple",Reliquary of Souls,1644268316,-20
-Judgementals,"Torch of the Damned",32332,"Black Temple",Reliquary of Souls,1644268210,-40
-Pheneal,"Crown of Empowered Fate",32354,"Black Temple",Reliquary of Souls,1644268091,0
-Marvelous,"Gauntlets of Enforcement",32280,"Black Temple",Teron Gorefiend,1644266266,0
-Chelios,"Focused Mana Bindings",32270,"Black Temple",Shade of Akama,1644265281,0
-Chelios,"Focused Mana Bindings",32270,"Black Temple",Shade of Akama,1644265115,-20
-Zyrno,"Shadow-walker's Cord",32265,"Black Temple",Shade of Akama,1644264870,-20
-Kvitravn,"Shroud of the Final Stand",34012,"Black Temple",High Warlord Naj'entus,1644263519,-20
-Goatboi,"Guise of the Tidal Lurker",32240,"Black Temple",High Warlord Naj'entus,1644263441,-20
-Pheneal,"Ring of Calming Waves",32238,"Black Temple",High Warlord Naj'entus,1644263345,0
-Nariel,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Gurtogg Bloodboil,1644262746,0
-Marvelous,"Glory of the Defender",30896,"Black Temple",Gurtogg Bloodboil,1644262490,0
+Cheliôs,"Cowl of the Illidari High Lord",32525,"Black Temple",Illidan Stormrage,1644871374,0
+Kvitravn,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1644871317,-100
+Tanooki,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1644871268,-103
+Mimimaus,"Shard of Azzinoth",32471,"Black Temple",Illidan Stormrage,1644871208,0
+Laveriá,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",Illidan Stormrage,1644871126,-102
+Ruzak,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1644871079,-101
+Nariyell,"Belt of Divine Guidance",32519,"Black Temple",Illidan Stormrage,1644871036,0
+Kvitravn,"Leggings of Devastation",32367,"Black Temple",Mother Shahraz,1644868073,0
+Pheneal,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1644868000,-100
+Saufisaufii,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1644867951,-101
+Gûârdina,"Helm of the Forgotten Protector",31095,"Black Temple",Archimonde,1644867388,-103
+Marveluos,"Legguards of Endless Rage",30903,"Black Temple",Archimonde,1644867188,0
+Miarra,"Helm of the Forgotten Conqueror",31097,"Black Temple",Archimonde,1644867018,-101
+Kvitravn,"Robes of Rhonin",30913,"Black Temple",Archimonde,1644866845,0
+Sealtwist,"Bow-stitched Leggings",30900,"Black Temple",Archimonde,1644866409,-40
+Sianna,"Gloves of the Forgotten Protector",31094,"Black Temple",Gurtogg Bloodboil,1644865185,-20
+Kair,"Gloves of the Forgotten Conqueror",31092,"Black Temple",Gurtogg Bloodboil,1644865128,-50
+Sealtwist,"Hammer of Judgement",34009,"Black Temple",Gurtogg Bloodboil,1644864959,0
+Sianna,"Claw of Molten Fury",32946,"Black Temple",Gurtogg Bloodboil,1644864655,0
+Fabilicious,"Claw of Molten Fury",32946,"Black Temple",Gurtogg Bloodboil,1644864153,0
+Ruzak,"Nethervoid Cloak",32590,"Black Temple",Gurtogg Bloodboil,1644863983,0
+Kvitravn,"Hatefury Mantle",30884,"Black Temple",Gurtogg Bloodboil,1644862992,0
+Nexîana,"Choker of Serrated Blades",32591,"Black Temple",Gurtogg Bloodboil,1644862519,-101
+Portía,"Chronicle of Dark Secrets",30872,"Black Temple",Gurtogg Bloodboil,1644862312,0
+Ziegenbub,"Shroud of the Final Stand",34012,"Black Temple",Gurtogg Bloodboil,1644860490,-20
+Ziegenbub,"Guise of the Tidal Lurker",32240,"Black Temple",Gurtogg Bloodboil,1644860430,-20
+Eludriaqt,"Belt of Primal Majesty",32339,"Black Temple",Gurtogg Bloodboil,1644860275,-20
+Sealtwist,"Torch of the Damned",32332,"Black Temple",Gurtogg Bloodboil,1644860227,-40
+Zyrno,"Shadow-walker's Cord",32265,"Black Temple",Gurtogg Bloodboil,1644860200,-20
+Cheliôs,"Focused Mana Bindings",32270,"Black Temple",Gurtogg Bloodboil,1644860159,-20
+Nariyell,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Gurtogg Bloodboil,1644262746,0
+Marveluos,"Glory of the Defender",30896,"Black Temple",Gurtogg Bloodboil,1644262490,0
 Sianna,"Bristleblitz Striker",30906,"Black Temple",Gurtogg Bloodboil,1644262423,-101
-Eludria,"Pillar of Ferocity",30883,"Black Temple",Gurtogg Bloodboil,1644262324,0
+Eludriaqt,"Pillar of Ferocity",30883,"Black Temple",Gurtogg Bloodboil,1644262324,0
 Kair,"Helm of the Forgotten Conqueror",31097,"Black Temple",Gurtogg Bloodboil,1644262284,-100
 Pheneal,"Helm of the Forgotten Conqueror",31097,"Black Temple",Gurtogg Bloodboil,1644262165,-101
 Rhovas,"Gloves of the Forgotten Protector",31094,"Black Temple",Gurtogg Bloodboil,1644262094,-101
-Morenia,"Hammer of Atonement",30918,"Black Temple",Gurtogg Bloodboil,1644261608,-103
-Wollepetry,"Blade of Infamy",30881,"Black Temple",Gurtogg Bloodboil,1644261565,-103
+Mimimaus,"Hammer of Atonement",30918,"Black Temple",Gurtogg Bloodboil,1644261608,-103
+Wøllepetry,"Blade of Infamy",30881,"Black Temple",Gurtogg Bloodboil,1644261565,-103
 Kvitravn,"Boots of the Divine Light",32609,"Black Temple",Gurtogg Bloodboil,1644261510,-50
 Kvitravn,"Angelista's Sash",30895,"Black Temple",Gurtogg Bloodboil,1644261413,-20
-Goatboi,"Howling Wind Bracers",30869,"Black Temple",Gurtogg Bloodboil,1644261372,-20
+Ziegenbub,"Howling Wind Bracers",30869,"Black Temple",Gurtogg Bloodboil,1644261372,-20
 Rhovas,"Bracers of the Pathfinder",30864,"Black Temple",Gurtogg Bloodboil,1644261329,0
-Wollepetry,"Pepe's Shroud of Pacification",34010,"Black Temple",Gurtogg Bloodboil,1644261205,0
-Marvelous,"Pepe's Shroud of Pacification",34010,"Black Temple",Gurtogg Bloodboil,1644261189,0
-Saufisaufi,"Tempest of Chaos",30910,"Black Temple",Gurtogg Bloodboil,1643665793,-103
+Wøllepetry,"Pepe's Shroud of Pacification",34010,"Black Temple",Gurtogg Bloodboil,1644261205,0
+Marveluos,"Pepe's Shroud of Pacification",34010,"Black Temple",Gurtogg Bloodboil,1644261189,0
+Saufisaufii,"Tempest of Chaos",30910,"Black Temple",Gurtogg Bloodboil,1643665793,-103
 Fabilicious,"Warglaive of Azzinoth",32837,"Black Temple",Gurtogg Bloodboil,1643665718,-103
 Meatboypizza,"Messenger of Fate",32269,"Black Temple",Gurtogg Bloodboil,1643665089,0
 Westologe,"Shroud of the Final Stand",34012,"Black Temple",Gurtogg Bloodboil,1643665022,-100
-Nexiana,"Nether Shadow Tunic",32252,"Black Temple",Gurtogg Bloodboil,1643664976,-81
-Nexiana,"Syphon of the Nathrezim",32262,"Black Temple",Gurtogg Bloodboil,1643664918,-20
-Nexiana,"Rising Tide",32236,"Black Temple",Gurtogg Bloodboil,1643664861,0
+Nexîana,"Nether Shadow Tunic",32252,"Black Temple",Gurtogg Bloodboil,1643664976,-81
+Nexîana,"Syphon of the Nathrezim",32262,"Black Temple",Gurtogg Bloodboil,1643664918,-20
+Nexîana,"Rising Tide",32236,"Black Temple",Gurtogg Bloodboil,1643664861,0
 Noelleon,"Grips of Silent Justice",32278,"Black Temple",Gurtogg Bloodboil,1643664759,-103
-Miara,"Wristbands of Divine Influence",32513,"Black Temple",Gurtogg Bloodboil,1643664661,-20
-Chelios,"Blood-cursed Shoulderpads",32338,"Black Temple",Gurtogg Bloodboil,1643664607,0
-Miara,"Cowl of Benevolence",32329,"Black Temple",Gurtogg Bloodboil,1643664518,-20
-Marvelous,"Rifle of the Stoic Guardian",32325,"Black Temple",Teron Gorefiend,1643663403,0
-Saufisaufi,"Pearl Inlaid Boots",32243,"Black Temple",Supremus,1643660940,0
+Miarra,"Wristbands of Divine Influence",32513,"Black Temple",Gurtogg Bloodboil,1643664661,-20
+Cheliôs,"Blood-cursed Shoulderpads",32338,"Black Temple",Gurtogg Bloodboil,1643664607,0
+Miarra,"Cowl of Benevolence",32329,"Black Temple",Gurtogg Bloodboil,1643664518,-20
+Marveluos,"Rifle of the Stoic Guardian",32325,"Black Temple",Teron Gorefiend,1643663403,0
+Saufisaufii,"Pearl Inlaid Boots",32243,"Black Temple",Supremus,1643660940,0
 Kvitravn,"Leggings of Eternity",30912,"Gruul's Lair",Abomination,1643658469,-103
-Nariel,"Chronicle of Dark Secrets",30872,"Gruul's Lair",Abomination,1643658359,-101
-Portia,"Helm of the Forgotten Conqueror",31097,"Gruul's Lair",Abomination,1643658261,-100
+Nariyell,"Chronicle of Dark Secrets",30872,"Gruul's Lair",Abomination,1643658359,-101
+Portía,"Helm of the Forgotten Conqueror",31097,"Gruul's Lair",Abomination,1643658261,-100
 Ruzak,"Helm of the Forgotten Conqueror",31097,"Gruul's Lair",Abomination,1643658243,-102
-Nariel,"Blue Suede Shoes",30894,"Gruul's Lair",Abomination,1643658054,0
+Nariyell,"Blue Suede Shoes",30894,"Gruul's Lair",Abomination,1643658054,0
 Bolwerk,"Midnight Chestguard",30905,"Gruul's Lair",Abomination,1643658007,-101
 Grünerbusch,"Gloves of the Forgotten Vanquisher",31093,"Gruul's Lair",Abomination,1643657937,0
 Pnemea,"Gloves of the Forgotten Vanquisher",31093,"Gruul's Lair",Abomination,1643657922,0
-Wollepetry,"Glory of the Defender",30896,"Gruul's Lair",Abomination,1643656825,0
-Tanuki,"Sun-touched Chain Leggings",30893,"Gruul's Lair",Abomination,1643656757,0
-Marvelous,"The Unbreakable Will",30874,"Gruul's Lair",Abomination,1643654891,0
-Miara,"Nethervoid Cloak",32590,"Gruul's Lair",Abomination,1643654610,-40
+Wøllepetry,"Glory of the Defender",30896,"Gruul's Lair",Abomination,1643656825,0
+Tanooki,"Sun-touched Chain Leggings",30893,"Gruul's Lair",Abomination,1643656757,0
+Marveluos,"The Unbreakable Will",30874,"Gruul's Lair",Abomination,1643654891,0
+Miarra,"Nethervoid Cloak",32590,"Gruul's Lair",Abomination,1643654610,-40
 Grünerbusch,"Pepe's Shroud of Pacification",34010,"Gruul's Lair",Abomination,1643654525,-20
 Grünerbusch,"Pillar of Ferocity",30883,"Gruul's Lair",Abomination,1643654415,-20
-Nexiana,"Star-Strider Boots",29951,"Tempest Keep",High Astromancer Solarian,1643055661,0
+Nexîana,"Star-Strider Boots",29951,"Tempest Keep",High Astromancer Solarian,1643055661,0
 Schnugge,"Pauldrons of the Vanquished Defender",30249,"Tempest Keep",Void Reaver,1643055334,-101
-Portia,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1643055269,0
+Portía,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1643055269,0
 Dschäinheal,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1643055183,-20
-Marvelous,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Void Reaver,1643055035,0
+Marveluos,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Void Reaver,1643055035,0
 Dschäinheal,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1643054507,-20
 Zyrno,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1643054478,-100
-Laveria,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1643054362,-100
+Laveriá,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1643054362,-100
 Meatboypizza,"Leggings of Murderous Intent",29995,"Tempest Keep",Kael'thas Sunstrider,1643054237,0
 Rhovas,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1643054074,-102
-Miara,"Talisman of the Sun King",29923,"Tempest Keep",Al'ar,1643052983,-20
+Miarra,"Talisman of the Sun King",29923,"Tempest Keep",Al'ar,1643052983,-20
 Sianna,"Claw of the Phoenix",29948,"Tempest Keep",Al'ar,1643052925,-100
 Dschäinheal,"Girdle of Fallen Stars",30030,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643052313,0
-Nariel,"Gloves of the Vanquished Defender",30240,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643052214,0
+Nariyell,"Gloves of the Vanquished Defender",30240,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643052214,0
 Dschäinheal,"World Breaker",30090,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643051277,0
-Wollepetry,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1643050976,0
+Wøllepetry,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1643050976,0
 Dschäinheal,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1643050825,0
 Dschäinheal,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050444,0
-Nariel,"Gnarled Chestpiece of the Ancients",30075,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050327,0
+Nariyell,"Gnarled Chestpiece of the Ancients",30075,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050327,0
 Fridge,"Serpent-Coil Braid",30720,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050203,0
 Meatboypizza,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049727,0
 Lightboi,"The Seal of Danzalar",33054,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049579,0
-Miara,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049238,-20
+Miarra,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049238,-20
 Grünerbusch,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049200,-101
 Meatboypizza,"Serpent Spine Longbow",30105,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048730,-103
-Portia,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048681,-102
-Judgementals,"Shoulderpads of the Stranger",30055,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048626,-103
+Portía,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048681,-102
+Sealtwist,"Shoulderpads of the Stranger",30055,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048626,-103
 Gûârdina,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1642450454,0
 Elessartwo,"Wand of the Forgotten Star",29982,"Tempest Keep",a,1642450338,0
 Pheneal,"Girdle of Fallen Stars",30030,"Tempest Keep",Void Reaver,1642450114,-20
-Portia,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1642449774,0
+Portía,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1642449774,0
 Pheneal,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1642449646,-20
-Nexiana,"Band of the Ranger-General",29997,"Tempest Keep",Kael'thas Sunstrider,1642449229,-102
+Nexîana,"Band of the Ranger-General",29997,"Tempest Keep",Kael'thas Sunstrider,1642449229,-102
 Pheneal,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1642449111,-20
-Miara,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1642449039,-20
-Miara,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1642449005,0
-Nariel,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1642448937,-102
+Miarra,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1642449039,-20
+Miarra,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1642449005,0
+Nariyell,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1642448937,-102
 Lightboi,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1642448864,-20
-Miara,"Band of Al'ar",29922,"Tempest Keep",Al'ar,1642447871,-20
-Marvelous,"Phoenix-Wing Cloak",29925,"Tempest Keep",Al'ar,1642447807,0
+Miarra,"Band of Al'ar",29922,"Tempest Keep",Al'ar,1642447871,-20
+Marveluos,"Phoenix-Wing Cloak",29925,"Tempest Keep",Al'ar,1642447807,0
 Grünerbusch,"Gloves of the Vanquished Defender",30240,"Tempest Keep",Al'ar,1642447732,0
 Noelleon,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1642446867,0
-Morenia,"True-Aim Stalker Bands",30091,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1642446731,0
-Nexiana,"World Breaker",30090,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445668,0
-Wollepetry,"Razor-Scale Battlecloak",30098,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445551,0
-Morenia,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445447,0
+Mimimaus,"True-Aim Stalker Bands",30091,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1642446731,0
+Nexîana,"World Breaker",30090,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445668,0
+Wøllepetry,"Razor-Scale Battlecloak",30098,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445551,0
+Mimimaus,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445447,0
 Rotona,"Boots of Effortless Striking",30060,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1642445085,0
-Morenia,"Tempest-Strider Boots",30066,"Coilfang: Serpentshrine Cavern",ssswwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwqqwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww2 24,1642444981,0
+Mimimaus,"Tempest-Strider Boots",30066,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444981,0
 Kvitravn,"Wraps of Purification",32516,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1642444864,0
-Nariel,"Runetotem's Mantle",30111,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444495,0
-Marvelous,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444432,0
+Nariyell,"Runetotem's Mantle",30111,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444495,0
+Marveluos,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444432,0
 Elessartwo,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444368,-101
 Sianna,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444289,-102
 Bolwerk,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1641845629,0
@@ -114,95 +132,95 @@ Wacabo,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstr
 Ruzak,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1641844637,-101
 Keyanu,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1641844538,-20
 Wacabo,"Gloves of the Vanquished Hero",30241,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842621,0
-Eludria,"Gloves of the Vanquished Defender",30240,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842547,0
-Miara,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842471,0
+Eludriaqt,"Gloves of the Vanquished Defender",30240,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842547,0
+Miarra,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842471,0
 Keyanu,"Soul-Strider Boots",30100,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842386,0
 Wacabo,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1641841091,0
 Fumi,"Boots of Courage Unending",30027,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1641840974,0
 Fumi,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1641840883,0
 Wacabo,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalkerss,1641840568,0
-Eludria,"Grove-Bands of Remulos",30062,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840501,0
-Chelios,"Velvet Boots of the Guardian",30067,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840417,-20
+Eludriaqt,"Grove-Bands of Remulos",30062,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840501,0
+Cheliôs,"Velvet Boots of the Guardian",30067,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840417,-20
 Fumi,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840306,-100
-Laveria,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1641839811,-102
+Laveriá,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1641839811,-102
 Wacabo,"Cobra-Lash Boots",30104,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641839217,0
 Kair,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641839093,-100
 Fridge,"Fang of the Leviathan",30095,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641244300,-101
-Portia,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1641240273,-100
+Portía,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1641240273,-100
 Hotmeplz,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1641239755,0
-Tanuki,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1641239675,0
+Tanooki,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1641239675,0
 Kvitravn,"Pauldrons of the Vanquished Defender",30249,"Tempest Keep",Void Reaver,1641239592,-101
 Pheneal,"Sunshower Light Cloak",29989,"Tempest Keep",Kael'thas Sunstrider,1641239156,-103
 Meatboypizza,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1641239039,0
-Morenia,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1641238998,-20
+Mimimaus,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1641238998,-20
 Schnugge,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1641238951,-103
 Noelleon,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1641238878,0
 Kvitravn,"Earring of Soulful Meditation",30665,"Tempest Keep",Kael'thas Sunstrider,1641238787,0
 Kvitravn,"Earring of Soulful Meditation",30665,"Tempest Keep",Kael'thas Sunstrider,1641238784,0
-Morenia,"World Breaker",30090,"Tempest Keep",Al'ar,1641238178,0
-Marvelous,"Fang of Vashj",30103,"Tempest Keep",Al'ar,1641238103,0
-Marvelous,"Razor-Scale Battlecloak",30098,"Tempest Keep",Al'ar,1641238040,0
-Morenia,"Leggings of the Vanquished Champion",30245,"Tempest Keep",Al'ar,1641237923,0
-Wollepetry,"Gloves of the Vanquished Defender",30240,"Tempest Keep",Al'ar,1641237844,0
-Morenia,"Gloves of the Vanquished Champion",30239,"Tempest Keep",Al'ar,1641237791,0
+Mimimaus,"World Breaker",30090,"Tempest Keep",Al'ar,1641238178,0
+Marveluos,"Fang of Vashj",30103,"Tempest Keep",Al'ar,1641238103,0
+Marveluos,"Razor-Scale Battlecloak",30098,"Tempest Keep",Al'ar,1641238040,0
+Mimimaus,"Leggings of the Vanquished Champion",30245,"Tempest Keep",Al'ar,1641237923,0
+Wøllepetry,"Gloves of the Vanquished Defender",30240,"Tempest Keep",Al'ar,1641237844,0
+Mimimaus,"Gloves of the Vanquished Champion",30239,"Tempest Keep",Al'ar,1641237791,0
 Fabilicious,"Arcanite Steam-Pistol",29949,"Tempest Keep",Al'ar,1641237672,0
-Judgementals,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234189,0
-Nexiana,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234168,0
-Marvelous,"Pauldrons of the Wardancer",30053,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641233301,0
+Sealtwist,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234189,0
+Nexîana,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234168,0
+Marveluos,"Pauldrons of the Wardancer",30053,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641233301,0
 Vècón,"Gloves of the Vanquished Hero",30241,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640636380,0
 Ruzak,"Fang of the Leviathan",30095,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640636317,-100
 Vècón,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635816,0
-Chelios,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635801,0
-Nariel,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635297,0
-Morenia,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635147,0
+Cheliôs,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635801,0
+Nariyell,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635297,0
+Mimimaus,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635147,0
 Noelleon,"Mallet of the Tides",30058,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634715,0
 Elessartwo,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634644,-102
 Gûârdina,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634568,-80
-Saufisaufi,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634529,-100
-Judgementals,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640633760,0
-Wollepetry,"Pauldrons of the Wardancer",30053,"Tempest Keep",Kael'thas Sunstrider,1640632794,0
+Saufisaufii,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634529,-100
+Sealtwist,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640633760,0
+Wøllepetry,"Pauldrons of the Wardancer",30053,"Tempest Keep",Kael'thas Sunstrider,1640632794,0
 Kair,"Boots of the Shifting Nightmare",30050,"Tempest Keep",Kael'thas Sunstrider,1640632731,0
-Chelios,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1640632434,-101
-Nexiana,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1640632360,-20
-Nexiana,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632309,-20
+Cheliôs,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1640632434,-101
+Nexîana,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1640632360,-20
+Nexîana,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632309,-20
 Gûârdina,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632248,-20
 Kair,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640631560,-103
-Saufisaufi,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630832,0
-Nexiana,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630723,0
+Saufisaufii,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630832,0
+Nexîana,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630723,0
 Vècón,"Star-Strider Boots",29951,"Tempest Keep",High Astromancer Solarian,1640630643,-20
-Goatboi,"Worldstorm Gauntlets",29976,"Tempest Keep",High Astromancer Solarian,1640630550,-100
+Ziegenbub,"Worldstorm Gauntlets",29976,"Tempest Keep",High Astromancer Solarian,1640630550,-100
 Meatboypizza,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640630047,0
 Kvitravn,"Cowl of the Grand Engineer",29986,"Tempest Keep",Void Reaver,1640629949,0
-Chelios,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640629875,0
-Tanuki,"Gloves of the Searing Grip",29947,"Tempest Keep",Al'ar,1640629016,0
-Morenia,"Phoenix-Ring of Rebirth",29920,"Tempest Keep",Al'ar,1640628935,0
+Cheliôs,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640629875,0
+Tanooki,"Gloves of the Searing Grip",29947,"Tempest Keep",Al'ar,1640629016,0
+Mimimaus,"Phoenix-Ring of Rebirth",29920,"Tempest Keep",Al'ar,1640628935,0
 Noelleon,"Talon of Azshara",30082,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640031613,-101
 Kvitravn,"Illidari Shoulderpads",30079,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640031573,0
 Gûârdina,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031233,0
-Morenia,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031060,0
-Wollepetry,"Girdle of the Invulnerable",30096,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030377,0
-Nexiana,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030330,0
-Tanuki,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030313,0
-Eludria,"Wildfury Greatstaff",30021,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029922,0
-Wollepetry,"Fang of Vashj",30103,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029700,0
-Nariel,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029143,-100
-Tanuki,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029074,-102
+Mimimaus,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031060,0
+Wøllepetry,"Girdle of the Invulnerable",30096,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030377,0
+Nexîana,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030330,0
+Tanooki,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030313,0
+Eludriaqt,"Wildfury Greatstaff",30021,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029922,0
+Wøllepetry,"Fang of Vashj",30103,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029700,0
+Nariyell,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029143,-100
+Tanooki,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029074,-102
 Kvitravn,"Lightfathom Scepter",30108,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029006,-103
 Kvitravn,"Boots of the Shifting Nightmare",30050,"Tempest Keep",Kael'thas Sunstrider,1640028072,0
 Fabilicious,"Ring of Lethality",30052,"Tempest Keep",Kael'thas Sunstrider,1640028013,-101
-Tanuki,"Leggings of Murderous Intent",29995,"Tempest Keep",Kael'thas Sunstrider,1640027070,0
+Tanooki,"Leggings of Murderous Intent",29995,"Tempest Keep",Kael'thas Sunstrider,1640027070,0
 Rhovas,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1640026992,-100
-Wollepetry,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1640026950,-60
-Saufisaufi,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640026847,-103
+Wøllepetry,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1640026950,-60
+Saufisaufii,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640026847,-103
 Gûârdina,"The Nexus Key",29988,"Tempest Keep",Kael'thas Sunstrider,1640026804,-103
-Portia,"Nether Vortex",30183,"Tempest Keep",High Astromancer Solarian,1640026139,0
+Portía,"Nether Vortex",30183,"Tempest Keep",High Astromancer Solarian,1640026139,0
 Meatboypizza,"Vambraces of Ending",29966,"Tempest Keep",High Astromancer Solarian,1640025858,0
 Ruzak,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1640025749,-101
-Marvelous,"Nether Vortex",30183,"Tempest Keep",Void Reaver,1640025487,0
-Eludria,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1640025209,0
+Marveluos,"Nether Vortex",30183,"Tempest Keep",Void Reaver,1640025487,0
+Eludriaqt,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1640025209,0
 Gûârdina,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025141,0
-Morenia,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025118,0
+Mimimaus,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025118,0
 Kvitravn,"Nether Vortex",30183,"Tempest Keep",Al'ar,1640024627,0
 Rhovas,"Arcanite Steam-Pistol",29949,"Tempest Keep",Al'ar,1640024387,0
-Portia,"Mindstorm Wristbands",29918,"Tempest Keep",Al'ar,1640024312,-102
+Portía,"Mindstorm Wristbands",29918,"Tempest Keep",Al'ar,1640024312,-102
 Kvitravn,"Nether Vortex",30183,"Tempest Keep",Phoenix-Hawk,1640023717,0
