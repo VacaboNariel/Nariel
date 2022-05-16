@@ -1,105 +1,588 @@
-player,DKP,date,reason
-"Decerabia,Kvitravn,Laveriá,Nexîana,Ruzak,Sealtwist,Shyliah",-1,99,-1,39,-1,19,99,-100%,1652125799,"Raid - Reset"
-"Fabilicious,Briareos,Kvitravn,Shyliah,Eludriaqt,Rhovas,Yunastarz,Sianna,Meatboypizza,Saufisaufii,Nexîana,Sealtwist,Wøllepetry,Noelleon,Sharac,Ruzak,Elessartwo,Portía,Nariyell,Ziegenbub,Tanooki,Laveriá,Decerabia,Miarra",1,1652125796,"Raid Completion Bonus"
-"Sharac",101,1652115626,"Other - Start"
-"Briareos",100,1652115585,"Other - Start"
-"Decerabia,Fabilicious,Laveriá,Marveluos,Meatboypizza,Miarra,Nariyell,Ruzak,Sealtwist,Tanooki,Yunastarz,Walden",-1,79,-1,18,99,16,59,-1,99,39,99,19,-100%,1651522454,"Raid - Reset"
-"Fabilicious,Pheneal,Saufisaufii,Eludriaqt,Wøllepetry,Kvitravn,Sianna,Shyliah,Yunastarz,Meatboypizza,Noelleon,Walden,Grünerbusch,Sealtwist,Marveluos,Ruzak,Elessartwo,Schnugge,Nariyell,Ziegenbub,Laveriá,Cheliôs,Miarra,Decerabia,Tanooki",1,1651522449,"Raid Completion Bonus"
-"Walden",100,1651511831,"Other - Start"
-"Axynia,Cheliôs,Fabilicious,Grünerbusch,Kvitravn,Laveriá,Nariyell,Nexîana,Noelleon,Rhovas,Ruzak,Sealtwist,Shyliah,Tanooki,Yunastarz,Ziegenbub",59,99,26,16,99,-1,86,39,99,17,-1,-1,99,100,77,98,-100%,1650918239,"Raid - Reset"
-"Fabilicious,Pheneal,Hotmeplz,Wøllepetry,Saufisaufii,Rhovas,Grünerbusch,Ziegenbub,Sianna,Meatboypizza,Sealtwist,Marveluos,Noelleon,Yunastarz,Nexîana,Axynia,Ruzak,Kvitravn,Nariyell,Tanooki,Decerabia,Cheliôs,Miarra,Shyliah,Laveriá",1,1650918236,"Raid Completion Bonus"
-"Cheliôs,Elessartwo,Fabilicious,Gûârdina,Hotmeplz,Kvitravn,Laveriá,Marveluos,Nariyell,Nexîana,Noelleon,Portía,Ruzak,Saufisaufii,Sealtwist,Shyliah,Sianna,Tanooki",29,99,-1,98,99,99,-1,99,-1,99,-1,19,-1,99,-1,19,99,-1,-100%,1650312224,"Raid - Reset"
-"Fabilicious,Saufisaufii,Hotmeplz,Ziegenbub,Pheneal,Kair,Grünerbusch,Shyliah,Sianna,Rhovas,Meatboypizza,Noelleon,Nexîana,Marveluos,Sealtwist,Ruzak,Gûârdina,Nariyell,Elessartwo,Schnugge,Kvitravn,Cheliôs,Tanooki,Laveriá,Portía",1,1650312216,"Raid Completion Bonus"
-"Cheliôs,Eludriaqt,Kair,Laveriá,Marveluos,Meatboypizza,Nexîana,Pheneal,Portía,Rethna,Ruzak,Shyliah,Sianna,Wøllepetry,Ziegenbub",99,99,39,-1,98,99,-1,99,99,-1,-1,99,99,99,99,-100%,1649707365,"Raid - Reset"
-"Fabilicious,Saufisaufii,Eludriaqt,Pheneal,Portía,Ziegenbub,Sianna,Yunastarz,Meatboypizza,Rhovas,Shyliah,Nexîana,Rethna,Marveluos,Wøllepetry,Ruzak,Nariyell,Kair,Kvitravn,Shamela,Laveriá,Decerabia,Cheliôs,Miarra,Tanooki",1,1649707362,"Raid Completion Bonus"
-"Shamela",100,1649695983,"Other - Start DKP"
-"Elessartwo,Laveriá,Meatboypizza,Nexîana,Pheneal,Schnugge,Sealtwist,Shyliah,Sianna",99,-1,99,-1,99,99,-1,19,99,-100%,1649103091,"Raid - Reset"
-"Fabilicious,Saufisaufii,Hotmeplz,Pheneal,Ziegenbub,Portía,Grünerbusch,Sianna,Meatboypizza,Shyliah,Sealtwist,Nexîana,Wøllepetry,Marveluos,Noelleon,Ruzak,Nariyell,Schnugge,Elessartwo,Gûârdina,Miarra,Tanooki,Decerabia,Cheliôs,Laveriá",1,1649103086,"Raid Completion Bonus"
-"Shyliah",100,1649090785,"Other - Start-DKP"
-"Cheliôs,Designshock,Elessartwo,Gûârdina,Hotmeplz,Kair,Laveriá,Marveluos,Meatboypizza,Miarra,Pheneal,Portía,Saufisaufii,Wøllepetry",99,99,99,39,19,79,-1,118,99,79,97,96,99,100,-100%,1648499722,"Raid - Reset"
-"Fabilicious,Hotmeplz,Schnugge,Portía,Pheneal,Ziegenbub,Nexîana,Meatboypizza,Sianna,Yunastarz,Designshock,Grünerbusch,Wøllepetry,Rethna,Marveluos,Ruzak,Kair,Kvitravn,Gûârdina,Elessartwo,Laveriá,Cheliôs,Miarra,Saufisaufii,Tanooki",1,1648499715,"Raid Completion Bonus"
-"Decerabia,Elessartwo,Eludriaqt,Fabilicious,Grünerbusch,Gûârdina,Kvitravn,Laveriá,Miarra,Portía,Rhovas,Saufisaufii,Schnugge,Sianna,Tanooki",99,19,59,99,99,98,99,-1,98,-1,98,99,99,19,19,-100%,1647897064,"Raid - Reset"
-"Nariyell,Kvitravn,Portía,Pheneal,Saufisaufii,Elessartwo,Rhovas,Sianna,Grünerbusch,Meatboypizza,Tanooki,Fabilicious,Sealtwist,Marveluos,Noelleon,Nexîana,Gûârdina,Eludriaqt,Schnugge,Ruzak,Ziegenbub,Laveriá,Miarra,Cheliôs,Decerabia",1,1647896967,"Raid Completion Bonus"
-"Axynia,Designshock,Fabilicious,Hotmeplz,Kair,Laveriá,Nariyell,Portía,Ruzak,Saufisaufii,Sianna,Tanooki,Wøllepetry,Yunastarz,Ziegenbub",99,19,69,76,99,-1,99,-1,99,99,39,99,18,99,99,-100%,1647293449,"Raid - Reset"
-"Pheneal,Sianna,Hotmeplz,Kvitravn",1,1647293439,"Raid Completion Bonus"
-"Nariyell,Schnugge,Axynia,Meatboypizza,Yunastarz,Rhovas,Nexîana,Rethna,Marveluos,Fabilicious,Wøllepetry,Designshock,Portía,Ziegenbub,Ruzak,Kair,Laveriá,Miarra,Tanooki,Decerabia,Saufisaufii",1,1647293317,"Raid Completion Bonus"
-"Rhovas",100,1647286095,"DKP Adjust"
-"Designshock,Fearboi,Decerabia,Axynia",100,1647279918,"Other - Start"
-"Ethna",-1,1646689904,"Other - Auf den Pala"
-"Rethna",1,1646689892,"Other - Vom Hunter"
-"Cheliôs,Elessartwo,Eludriaqt,Fabilicious,Kair,Kvitravn,Meatboypizza,Nexîana,Nybbasa,Portía,Sianna,Yunastarz,Ziegenbub",99,19,59,99,99,99,99,99,99,-1,49,99,99,-100%,1646689304,"Raid - Reset"
-"Sealtwist,Eludriaqt,Kvitravn,Saufisaufii,Pheneal,Ziegenbub,Sianna,Tanooki,Meatboypizza,Yunastarz,Ethna,Fabilicious,Nexîana,Noelleon,Grünerbusch,Kair,Gûârdina,Portía,Nariyell,Elessartwo,Laveriá,Nybbasa,Cheliôs,Miarra,Schnugge",1,1646689298,"Raid Completion Bonus"
-"Fabiolous",-1,1646675338,"DKP Adjust"
-"Nybbasa",100,1646675308,"Other - Start"
-"Ethna",100,1646675304,"Other - Start"
-"Plzkillme",-103,1646675264,"DKP Adjust"
-"Plzkillme",100,1646675187,"DKP Adjust"
-"Cheliôs,Elessartwo,Fabilicious,Grünerbusch,Gûârdina,Hotmeplz,Meatboypizza,Miarra,Mimimaus,Nariyell,Nexîana,Pheneal,Portía,Rhovas,Ruzak,Saufisaufii,Sianna,Rethna",-1,99,99,19,18,-1,99,78,99,99,99,48,-1,19,99,99,19,39,-100%,1646084739,"Raid - Reset"
-"Fabilicious,Hotmeplz,Portía,Cheliôs,Nariyell,Laveriá,Ruzak,Saufisaufii,Miarra,Gûârdina,Wøllepetry,Ziegenbub,Sianna,Tanooki,Schnugge,Rethna,Grünerbusch,Kair,Elessartwo,Kvitravn,Marveluos,Nexîana,Meatboypizza,Rhovas,Pheneal,Mimimaus",1,1646084719,"Raid Completion Bonus"
-"Rethna",100,1646073496,"Other - Start"
-"Cheliôs",-18,1646070682,"Other - Focused Mana Binding ohne DKP"
-"Elessartwo,Eludriaqt,Grünerbusch,Kvitravn,Marveluos,Meatboypizza,Mimimaus,Nexîana,Noelleon,Plzkillme,Rhovas,Tanooki,Wøllepetry,Yunastarz,Ziegenbub",99,19,99,39,97,98,99,99,99,-1,59,99,79,98,98,-100%,1645480132,"Raid - Reset"
-"Sealtwist,Fabilicious,Tanooki,Eludriaqt,Pheneal,Ruzak,Grünerbusch,Ziegenbub,Marveluos,Meatboypizza,Rhovas,Nexîana,Wøllepetry,Yunastarz,Noelleon,Portía,Kvitravn,Nariyell,Elessartwo,Gûârdina,Saufisaufii,Laveriá,Plzkillme,Mimimaus,Miarra",1,1645480127,"Raid Completion Bonus"
-"Plzkillme",103,1645465977,"Other - Start DKP"
-"Gûârdina,Kair,Kvitravn,Laveriá,Marveluos,Miarra,Nexîana,Pheneal,Ruzak,Saufisaufii,Sealtwist,Sianna,Tanooki",99,49,99,99,-1,99,99,99,99,99,39,19,99,-100%,1644871514,"Raid - Reset"
-"Sealtwist,Tanooki,Kvitravn,Pheneal,Saufisaufii,Hotmeplz,Mimimaus,Fabilicious,Grünerbusch,Sianna,Meatboypizza,Yunastarz,Marveluos,Nexîana,Noelleon,Kair,Ruzak,Nariyell,Gûârdina,Elessartwo,Ziegenbub,Portía,Miarra,Laveriá,Cheliôs",1,1644871501,"Raid Completion Bonus"
-"Yunastarz",100,1644860729,"DKP Adjust"
-"Cheliôs,Eludriaqt,Ziegenbub,Sealtwist,Zyrno",17,17,40,38,19,-100%,1644860503,"Raid - Reset"
-"Ziegenbub,Kair,Kvitravn,Marveluos,Mimimaus,Pheneal,Rhovas,Sianna,Tanooki,Wøllepetry",18,99,69,-1,99,99,99,99,-1,99,-100%,1644859122,"Raid - Reset"
-"Wøllepetry,Sianna,Rhovas,Pheneal,Mimimaus,Kair,Zyrno,Fabilicious,Nariyell,Grünerbusch,Eludriaqt,Cheliôs,Laveriá,Portía,Ruzak,Marveluos,Meatboypizza,Kvitravn,Miarra,Sealtwist,Saufisaufii,Cjur,Ziegenbub,Tanooki,Nexîana",1,1644859117,"Raid Completion Bonus"
-"Cjur",100,1644256107,"Other - Start DKP"
-"Saufisaufii,Fabilicious",99,99,-100%,1643665814,"Raid - Reset"
-"Fabilicious,Saufisaufii",1,1643665810,"Raid Completion Bonus"
-"Grünerbusch,Nariyell,Saufisaufii,Bolwerk,Miarra,Westologe,Kvitravn,Tanooki,Nexîana,Portía,Ruzak,Wøllepetry,Marveluos,Noelleon",39,99,-1,99,79,99,99,-1,99,99,99,-1,-1,99,-100%,1643665620,"Raid - Reset"
-"Pnemea,Grünerbusch,Nariyell,Meatboypizza,Sianna,Cheliôs,Saufisaufii,Sealtwist,Bolwerk,Rhovas,Laveriá,Miarra,Westologe,Kvitravn,Tanooki,Fabiolous,Nexîana,Mimimaus,Ruzak,Portía,Kenpachina,Elessartwo,Noelleon,Marveluos,Wøllepetry",1,1643665597,"Raid Completion Bonus"
-"Westologe",100,1643656679,"Other - Start"
-"Kenpachina",100,1643656675,"Other - Start"
-"Fabiolous",100,1643656669,"Other - Start"
-"Grünerbusch,Gûârdina,Sealtwist,Laveriá,Marveluos,Meatboypizza,Miarra,Noelleon,Portía,Rhovas,Schnugge,Sianna,Wøllepetry,Dschäinheal,Zyrno",99,-1,99,99,-1,99,39,-1,99,99,99,99,-1,39,99,-100%,1643057039,"Raid - Reset"
-"Meatboypizza,Laveriá,Rhovas,Schnugge,Sealtwist,Sianna,Grünerbusch,Portía,Zyrno,Dschäinheal,Miarra,Pheneal,Lightboi,Nariyell,Fridge,Nexîana,Mimimaus,Ruzak,Hotmeplz,Kvitravn,Marveluos,Noelleon,Gûârdina,Wøllepetry,Elessartwo",1,1643057034,"Raid Completion Bonus"
-"Dschäinheal,Zyrno",100,1643046872,"Other - Start DKP"
-"Elessartwo,Fabilicious,Sealtwist,Lightboi,Marveluos,Miarra,Nariyell,Nexîana,Noelleon,Pheneal,Sianna,Wøllepetry",99,-1,-1,18,-1,36,98,99,-1,59,99,-1,-100%,1642452916,"Raid - Reset"
-"Wøllepetry,Marveluos,Nariyell,Noelleon,Sealtwist,Miarra,Fabilicious,Nexîana,Saufisaufii,Tanooki,Gûârdina,Portía,Lightboi,Kvitravn,Sair,Ruzak,Rotona,Hotmeplz,Grünerbusch,Schnugge,Mimimaus,Pheneal,Cheliôs,Sianna,Elessartwo",1,1642452905,"Raid Completion Bonus"
-"Lightboi",1,1642441814,"DKP Adjust"
-"Sair,Rotona,Nanji,Lightboi",100,1642441715,"Other - Start DKP"
-"Cheliôs,Grünerbusch,Hotmeplz,Kair,Keyanu,Laveriá,Marveluos,Meatboypizza,Miarra,Ruzak,Fumi",18,98,99,99,19,98,-1,-1,-1,99,99,-100%,1641848394,"Raid - Reset"
-"Bolwerk,Fumi,Hotmeplz,Laveriá,Grünerbusch,Marveluos,Miarra,Meatboypizza,Nariyell,Noelleon,Fabilicious,Wøllepetry,Ruzak,Eludriaqt,Gûârdina,Nexîana,Saufisaufii,Rhovas,Cheliôs,Portía,Ziegenbub,Elessartwo,Kair,Kvitravn,Keyanu",1,1641848380,"Raid Completion Bonus"
-"Bolwerk,Fumi,Wacabo",100,1641837159,"Other - Start DKP"
-"Keyanu",100,1641835100,"Other - AFFENKIND"
-"Fridge,Hotmeplz,Sealtwist,Kvitravn,Laveriá,Marveluos,Meatboypizza,Mimimaus,Pheneal,Portía,Schnugge",99,-1,-1,99,-1,-1,-1,17,99,99,99,-100%,1641244472,"Raid - Reset"
-"Nariyell,Grünerbusch,Hotmeplz,Meatboypizza,Sianna,Rhovas,Laveriá,Cheliôs,Fridge,Sealtwist,Saufisaufii,Pheneal,Miarra,Kvitravn,Schnugge,Fabilicious,Tanooki,Mimimaus,Nexîana,Gûârdina,Ruzak,Portía,Marveluos,Noelleon,Wøllepetry",1,1641244443,"Raid Completion Bonus"
-"Hotmeplz",103,1641232314,"Other - Start DKP"
-"Cheliôs,Elessartwo,Gûârdina,Sealtwist,Kair,Laveriá,Nexîana,Ruzak,Saufisaufii,Vècón,Ziegenbub",99,99,99,-1,99,-1,38,99,99,18,99,-100%,1640636783,"Raid - Reset"
-"Grünerbusch,Nariyell,Pnemea,Meatboypizza,Sianna,Vècón,Laveriá,Fridge,Cheliôs,Sealtwist,Saufisaufii,Miarra,Kvitravn,Fabilicious,Tanooki,Mimimaus,Nexîana,Ziegenbub,Gûârdina,Ruzak,Elessartwo,Kair,Marveluos,Wøllepetry,Noelleon",1,1640636737,"Raid Completion Bonus"
-"Grünerbusch",101,1640627128,"Other - StartDKP"
-"Ziegenbub",100,1640627115,"Other - StartDKP"
-"Pnemea",100,1640627092,"Other - StartDKP"
-"Fridge",100,1640627087,"Other - StartDKP"
-"Kvitravn,Kair,Portía,Laveriá,Sealtwist,Ruzak,Fabilicious,Nariyell,Rhovas,Wøllepetry,Saufisaufii,Gûârdina,Tanooki,Noelleon",99,-1,98,-1,-1,99,99,99,99,59,99,99,99,99,-100%,1640032099,"Raid - Reset"
-"Kvitravn,Tanooki,Fabilicious,Noelleon,Nariyell,Rhovas,Ruzak,Gûârdina,Saufisaufii,Portía,Wøllepetry,Nexîana,Mimimaus,Eludriaqt,Miarra,Vècón,Cheliôs,Marveluos,Meatboypizza,Elessartwo,Pheneal,Schnugge,Sealtwist,Laveriá,Kair",1,1640032090,"Raid Completion Bonus"
-"Noelleon",101,1640023218,"Other - Start DKP"
-"Tanooki",102,1640023131,"Other - Start DKP"
-"Gûârdina",103,1640023037,"Other - Start DKP"
-"Pheneal",102,1640023030,"Other - Start DKP"
-"Elessartwo",101,1640023021,"Other - Start DKP"
-"Nexîana",100,1640022693,"Other - Start DKP"
-"Schnugge",102,1640022533,"Other - Start DKP"
-"Saufisaufii",103,1640022403,"Other - Start DKP"
-"Miarra",100,1640022191,"Other - Start DKP"
-"Portía",103,1640022184,"Other - Start DKP"
-"Vècón",100,1640022175,"Other - Start DKP"
-"Eludriaqt",100,1640022169,"Other - Start DKP"
-"Mimimaus",100,1640022040,"Other - Start DKP"
-"Laveriá",103,1640022033,"Other - Start DKP"
-"Meatboypizza",101,1640022027,"Other - Start DKP"
-"Kvitravn",103,1640022018,"Other - Start DKP"
-"Marveluos",101,1640022006,"Other - Start DKP"
-"Ruzak",101,1640022000,"Other - Start DKP"
-"Cheliôs",100,1640021993,"Other - Start DKP"
-"Kair",103,1640021986,"Other - Start DKP"
-"Rhovas",100,1640021689,"Other - Start DKP"
-"Sianna",100,1640021685,"Other - Start DKP"
-"Wøllepetry",100,1640021294,"Other - Start DKP"
-"Nariyell",100,1640020603,"Other - Start DKP"
-"Fabilicious",101,1640020596,"Other - Start DKP"
-"Sealtwist",103,1640020582,"Other - Start DKP"
+player,itemName,itemNumber,zone,boss,date,cost
+Nariyell,"Helm of the Forgotten Vanquisher",31096,"Black Temple",Illidan Stormrage,1652125759,0
+Nexîana,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1652125684,0
+Briareos,"Scepter of Purification",30911,"Black Temple",Illidan Stormrage,1652125624,0
+Nexîana,"Midnight Chestguard",30905,"Black Temple",Illidan Stormrage,1652125546,-20
+Kvitravn,"Gloves of the Forgotten Conqueror",31092,"Black Temple",Illidan Stormrage,1652125164,-101
+Briareos,"Angelista's Sash",30895,"Black Temple",Illidan Stormrage,1652124326,0
+Nariyell,"Archbishop's Slippers",30885,"Black Temple",Illidan Stormrage,1652123413,0
+Nexîana,"Deadly Cuffs",30863,"Black Temple",Illidan Stormrage,1652122827,-20
+Nexîana,"Howling Wind Bracers",30869,"Black Temple",Illidan Stormrage,1652122739,0
+Fabilicious,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1652122665,0
+Nariyell,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1652122437,0
+Wøllepetry,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1652122340,0
+Nexîana,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1652122266,0
+Shyliah,"Memento of Tyrande",32496,"Black Temple",Illidan Stormrage,1652122176,-101
+Eludriaqt,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1652120282,0
+Sealtwist,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1652120156,-20
+Kvitravn,"Gloves of Unfailing Faith",32353,"Black Temple",Gurtogg Bloodboil,1652119330,0
+Meatboypizza,"Boneweave Girdle",32346,"Black Temple",Gurtogg Bloodboil,1652119208,0
+Nexîana,"Felstone Bulwark",32255,"Black Temple",Shade of Akama,1652117221,0
+Nariyell,"Mail of Fevered Pursuit",30907,"Black Temple",Illidan Stormrage,1651522422,-30
+Decerabia,"Robes of Rhonin",30913,"Black Temple",Illidan Stormrage,1651522376,0
+Yunastarz,"Helm of the Forgotten Vanquisher",31096,"Black Temple",Illidan Stormrage,1651522331,-100
+Wøllepetry,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1651522277,0
+Meatboypizza,"Bow-stitched Leggings",30900,"Black Temple",Illidan Stormrage,1651521845,0
+Walden,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1651521805,-20
+Eludriaqt,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1651521751,0
+Sealtwist,"Blood-stained Pauldrons",30866,"Black Temple",Illidan Stormrage,1651518959,0
+Miarra,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1651518521,-20
+Saufisaufii,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1651518475,0
+Sealtwist,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1651518367,-1
+Ruzak,"Cowl of the Illidari High Lord",32525,"Black Temple",Illidan Stormrage,1651518292,0
+Fabilicious,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1651518196,-80
+Sealtwist,"Cursed Vision of Sargeras",32235,"Black Temple",Illidan Stormrage,1651518122,-102
+Meatboypizza,"Forest Prowler's Helm",32376,"Black Temple",The Illidari Council,1651516994,0
+Yunastarz,"Treads of the Den Mother",32593,"Black Temple",The Illidari Council,1651516936,0
+Nariyell,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1651516935,-30
+Marveluos,"Blade of Savagery",32369,"Black Temple",Mother Shahraz,1651516523,-20
+Meatboypizza,"Pauldrons of the Forgotten Protector",31103,"Black Temple",Mother Shahraz,1651516468,-102
+Marveluos,"Unstoppable Aggressor's Ring",32335,"Black Temple",Gurtogg Bloodboil,1651515261,0
+Shyliah,"Belt of Primal Majesty",32339,"Black Temple",Gurtogg Bloodboil,1651515180,0
+Walden,"Torch of the Damned",32332,"Black Temple",Reliquary of Souls,1651514506,0
+Schnugge,"Naaru-Blessed Life Rod",32363,"Black Temple",Reliquary of Souls,1651514403,0
+Meatboypizza,"Softstep Boots of Tracking",32510,"Black Temple",Teron Gorefiend,1651513744,0
+Miarra,"Amice of Brilliant Light",32273,"Black Temple",Shade of Akama,1651513240,0
+Tanooki,"Naturalist's Preserving Cinch",32258,"Black Temple",Shade of Akama,1651513099,-40
+Walden,"Wraps of Precise Flight",32251,"Black Temple",Shade of Akama,1651512991,0
+Marveluos,"Eternium Shell Bracers",32232,"Black Temple",Supremus,1651512582,0
+Shyliah,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1650918162,0
+Nariyell,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1650918117,-20
+Shyliah,"Antonidas's Aegis of Rapt Concentration",30909,"Black Temple",Illidan Stormrage,1650918079,0
+Kvitravn,"Helm of the Forgotten Conqueror",31097,"Black Temple",Illidan Stormrage,1650918014,-100
+Nexîana,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1650917970,-20
+Nariyell,"Leggings of Channeled Elements",30916,"Black Temple",Illidan Stormrage,1650916396,-30
+Wøllepetry,"Kaz'rogal's Hardened Heart",30889,"Black Temple",Illidan Stormrage,1650916285,0
+Fabilicious,"Blade of Infamy",30881,"Black Temple",Illidan Stormrage,1650915308,-30
+Noelleon,"Choker of Serrated Blades",32591,"Black Temple",Illidan Stormrage,1650915007,0
+Wøllepetry,"Furious Shackles",30861,"Black Temple",Illidan Stormrage,1650914743,0
+Nariyell,"Rejuvenating Bracers",30868,"Black Temple",Illidan Stormrage,1650914693,0
+Tanooki,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1650913619,-2
+Miarra,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1650913409,0
+Axynia,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1650913362,-20
+Shyliah,"Crystal Spire of Karabor",32500,"Black Temple",Illidan Stormrage,1650913319,-100
+Noelleon,"Madness of the Betrayer",32505,"Black Temple",Illidan Stormrage,1650913269,-103
+Nariyell,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",The Illidari Council,1650912727,-40
+Rhovas,"Shadowmaster's Boots",32366,"Black Temple",Mother Shahraz,1650911715,-20
+Axynia,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1650911551,-20
+Grünerbusch,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1650911485,-20
+Yunastarz,"Shadowmoon Insignia",32501,"Black Temple",Gurtogg Bloodboil,1650910403,-80
+Cheliôs,"Ring of Ancient Knowledge",32527,"Black Temple",Reliquary of Souls,1650909823,-100
+Ziegenbub,"Blessed Band of Karabor",32528,"Black Temple",Reliquary of Souls,1650909692,-100
+Tanooki,"Blessed Band of Karabor",32528,"Black Temple",Reliquary of Souls,1650909617,-102
+Nexîana,"Insidious Bands",32324,"Black Temple",Reliquary of Souls,1650909547,-20
+Shyliah,"Totem of Ancestral Guidance",32330,"Black Temple",Reliquary of Souls,1650909442,0
+Saufisaufii,"Kilt of Immortal Nature",32271,"Black Temple",Teron Gorefiend,1650908635,0
+Saufisaufii,"Praetorian's Legguards",32263,"Black Temple",Shade of Akama,1650908310,0
+Axynia,"Ring of Captured Storms",32247,"Black Temple",Shade of Akama,1650907913,-20
+Noelleon,"Cataclysm's Edge",30902,"Black Temple",Illidan Stormrage,1650312190,0
+Marveluos,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1650312148,-100
+Saufisaufii,"Helm of the Forgotten Conqueror",31097,"Black Temple",Illidan Stormrage,1650312089,-2
+Hotmeplz,"Leggings of Eternity",30912,"Black Temple",Illidan Stormrage,1650312037,-101
+Nexîana,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1650312001,0
+Saufisaufii,"Gloves of the Forgotten Conqueror",31092,"Black Temple",Illidan Stormrage,1650311948,-100
+Meatboypizza,"Beast-tamer's Shoulders",30892,"Black Temple",Illidan Stormrage,1650310768,0
+Ziegenbub,"Nethervoid Cloak",32590,"Black Temple",Illidan Stormrage,1650310014,0
+Sealtwist,"Don Alejandro's Money Belt",30879,"Black Temple",Illidan Stormrage,1650309727,0
+Pheneal,"Hammer of Judgement",34009,"Black Temple",Illidan Stormrage,1650309233,0
+Noelleon,"Deadly Cuffs",30863,"Black Temple",Illidan Stormrage,1650309144,0
+Cheliôs,"Cuffs of Devastation",30870,"Black Temple",Illidan Stormrage,1650309022,-30
+Portía,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1650308407,-20
+Saufisaufii,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1650308363,0
+Shyliah,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1650308308,-20
+Pheneal,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1650308257,0
+Nexîana,"Cursed Vision of Sargeras",32235,"Black Temple",Illidan Stormrage,1650307733,-103
+Kvitravn,"Crystal Spire of Karabor",32500,"Black Temple",Illidan Stormrage,1650307635,-102
+Kvitravn,"Belt of Divine Guidance",32519,"Black Temple",The Illidari Council,1650307069,0
+Sealtwist,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1650306479,0
+Pheneal,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1650306418,0
+Grünerbusch,"Shadowmoon Insignia",32501,"Black Temple",Gurtogg Bloodboil,1650305189,0
+Saufisaufii,"Pendant of Titans",32362,"Black Temple",Reliquary of Souls,1650304830,0
+Fabilicious,"Shadow-walker's Cord",32265,"Black Temple",Reliquary of Souls,1650304732,0
+Sianna,"Insidious Bands",32324,"Black Temple",Reliquary of Souls,1650304568,-100
+Saufisaufii,"Pauldrons of Abyssal Fury",32250,"Black Temple",Teron Gorefiend,1650303957,0
+Grünerbusch,"Idol of the White Stag",32257,"Black Temple",Shade of Akama,1650303532,0
+Gûârdina,"The Maelstrom's Fury",32237,"Black Temple",Shade of Akama,1650303241,-100
+Elessartwo,"Slippers of the Seacaller",32239,"Black Temple",Shade of Akama,1650303074,-100
+Decerabia,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1649707279,0
+Pheneal,"Cataclysm's Edge",30902,"Black Temple",Illidan Stormrage,1649707232,-80
+Sianna,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1649707183,-60
+Shyliah,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1649707154,-80
+Eludriaqt,"Leggings of Eternity",30912,"Black Temple",Illidan Stormrage,1649707106,0
+Miarra,"Boots of the Divine Light",32609,"Black Temple",Illidan Stormrage,1649707019,0
+Marveluos,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1649706658,-20
+Sianna,"Boundless Agony",30901,"Black Temple",Illidan Stormrage,1649706616,-20
+Portía,"Blue Suede Shoes",30894,"Black Temple",Illidan Stormrage,1649705908,0
+Shyliah,"Bastion of Light",30882,"Black Temple",Illidan Stormrage,1649704766,-20
+Yunastarz,"Pillar of Ferocity",30883,"Black Temple",Illidan Stormrage,1649704691,0
+Eludriaqt,"Boots of the Divine Light",32609,"Black Temple",Illidan Stormrage,1649704380,-50
+Kvitravn,"Bracers of Martyrdom",30871,"Black Temple",Illidan Stormrage,1649704116,0
+Eludriaqt,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1649703019,-50
+Pheneal,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1649702953,-20
+Marveluos,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1649702910,-80
+Meatboypizza,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1649702877,-80
+Cheliôs,"Cloak of the Illidari Council",32331,"Black Temple",Illidan Stormrage,1649702813,-101
+Wøllepetry,"Pauldrons of the Forgotten Protector",31103,"Black Temple",Illidan Stormrage,1649702691,-101
+Ziegenbub,"Crystal Spire of Karabor",32500,"Black Temple",Illidan Stormrage,1649702653,-103
+Kair,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1649701428,-20
+Meatboypizza,"Shadowmaster's Boots",32366,"Black Temple",Mother Shahraz,1649701359,-20
+Kair,"Translucent Spellthread Necklace",32349,"Black Temple",Reliquary of Souls,1649699808,-20
+Nariyell,"Cowl of Benevolence",32329,"Black Temple",Reliquary of Souls,1649699707,0
+Portía,"Ring of Ancient Knowledge",32527,"Black Temple",Teron Gorefiend,1649699077,-101
+Shamela,"Flashfire Girdle",32276,"Black Temple",Shade of Akama,1649698582,0
+Marveluos,"Band of Devastation",32526,"Black Temple",Shade of Akama,1649698392,0
+Wøllepetry,"Legionkiller",32253,"Black Temple",Shade of Akama,1649698241,0
+Eludriaqt,"Band of the Abyssal Lord",32261,"Black Temple",Shade of Akama,1649698169,0
+Pheneal,"Tide-stomper's Greaves",32245,"Black Temple",Shade of Akama,1649698092,0
+Sianna,"Mantle of Darkness",32377,"Black Temple",Shade of Akama,1649698029,-20
+Schnugge,"Robes of Rhonin",30913,"Black Temple",Fel Stalker,1649103005,-1
+Pheneal,"Helm of the Forgotten Conqueror",31097,"Black Temple",Fel Stalker,1649102963,0
+Schnugge,"Helm of the Forgotten Conqueror",31097,"Black Temple",Fel Stalker,1649102912,-60
+Wøllepetry,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1649102132,0
+Elessartwo,"Gloves of the Forgotten Conqueror",31092,"Black Temple",Illidan Stormrage,1649102089,-100
+Wøllepetry,"Choker of Serrated Blades",32591,"Black Temple",Illidan Stormrage,1649101457,0
+Marveluos,"Kaz'rogal's Hardened Heart",30889,"Black Temple",Illidan Stormrage,1649101277,0
+Shyliah,"Hammer of Atonement",30918,"Black Temple",Illidan Stormrage,1649101141,0
+Grünerbusch,"Choker of Serrated Blades",32591,"Black Temple",Illidan Stormrage,1649100349,0
+Nariyell,"Hatefury Mantle",30884,"Black Temple",Illidan Stormrage,1649100257,0
+Nexîana,"Bastion of Light",30882,"Black Temple",Illidan Stormrage,1649100178,0
+Meatboypizza,"Deadly Cuffs",30863,"Black Temple",Illidan Stormrage,1649099416,-100
+Miarra,"Bracers of Martyrdom",30871,"Black Temple",Illidan Stormrage,1649099356,0
+Portía,"Cowl of the Illidari High Lord",32525,"Black Temple",Illidan Stormrage,1649098280,0
+Schnugge,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1649098219,-20
+Sianna,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1649098182,-81
+Marveluos,"Helm of the Illidari Shatterer",32373,"Black Temple",Illidan Stormrage,1649098115,0
+Pheneal,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1649098074,-100
+Cheliôs,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",Illidan Stormrage,1649097975,0
+Hotmeplz,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1649096736,0
+Schnugge,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1649096613,-20
+Nexîana,"Shadowmaster's Boots",32366,"Black Temple",Mother Shahraz,1649096499,0
+Grünerbusch,"Treads of the Den Mother",32593,"Black Temple",Gurtogg Bloodboil,1649095578,0
+Marveluos,"Girdle of Stability",32333,"Black Temple",Gurtogg Bloodboil,1649095531,0
+Noelleon,"Leggings of Divine Retribution",32341,"Black Temple",Gurtogg Bloodboil,1649095485,0
+Sealtwist,"Band of Devastation",32526,"Black Temple",Teron Gorefiend,1649094338,0
+Shyliah,"Botanist's Gloves of Growth",32328,"Black Temple",Teron Gorefiend,1649094274,-20
+Sianna,"Softstep Boots of Tracking",32510,"Black Temple",Teron Gorefiend,1649094216,-20
+Tanooki,"Spiritwalker Gauntlets",32275,"Black Temple",Shade of Akama,1649093782,0
+Pheneal,"Shroud of the Final Stand",34012,"Black Temple",Shade of Akama,1649093586,0
+Nexîana,"Syphon of the Nathrezim",32262,"Black Temple",Shade of Akama,1649093398,0
+Pheneal,"Pearl Inlaid Boots",32243,"Black Temple",Shade of Akama,1649093251,0
+Sealtwist,"Illidari Runeshield",34011,"Black Temple",Supremus,1649092944,0
+Marveluos,"The Unbreakable Will",30874,"Black Temple",Illidan Stormrage,1648499609,-20
+Pheneal,"Girdle of Hope",30897,"Black Temple",Illidan Stormrage,1648499572,0
+Gûârdina,"Antonidas's Aegis of Rapt Concentration",30909,"Black Temple",Illidan Stormrage,1648499453,-20
+Elessartwo,"Helm of the Forgotten Conqueror",31097,"Black Temple",Illidan Stormrage,1648499409,-100
+Saufisaufii,"Helm of the Forgotten Conqueror",31097,"Black Temple",Illidan Stormrage,1648499369,-100
+Designshock,"Sun-touched Chain Leggings",30893,"Black Temple",Illidan Stormrage,1648498146,0
+Laveriá,"Cuffs of Devastation",30870,"Black Temple",Illidan Stormrage,1648496348,0
+Portía,"Nethervoid Cloak",32590,"Black Temple",Illidan Stormrage,1648495938,-50
+Wøllepetry,"Dreadboots of the Legion",32345,"Black Temple",Illidan Stormrage,1648494779,-1
+Saufisaufii,"Focused Mana Bindings",32270,"Black Temple",Illidan Stormrage,1648494739,0
+Wøllepetry,"Pauldrons of Abyssal Fury",32250,"Black Temple",Illidan Stormrage,1648494632,0
+Designshock,"Rising Tide",32236,"Black Temple",Illidan Stormrage,1648494586,0
+Gûârdina,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1648494541,-20
+Portía,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1648494492,-50
+Wøllepetry,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1648494437,-100
+Designshock,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1648494396,-100
+Marveluos,"Pauldrons of the Forgotten Protector",31103,"Black Temple",Illidan Stormrage,1648494322,-102
+Miarra,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Illidan Stormrage,1648494272,-80
+Kair,"Cloak of the Illidari Council",32331,"Black Temple",Illidan Stormrage,1648494200,-80
+Designshock,"Band of Devastation",32526,"Black Temple",Illidan Stormrage,1648494138,0
+Hotmeplz,"Botanist's Gloves of Growth",32328,"Black Temple",Illidan Stormrage,1648494099,-20
+Grünerbusch,"Choker of Endless Nightmares",32260,"Black Temple",Illidan Stormrage,1648494026,0
+Cheliôs,"Slippers of the Seacaller",32239,"Black Temple",Illidan Stormrage,1648493931,-101
+Pheneal,"Crystal Spire of Karabor",32500,"Black Temple",Illidan Stormrage,1648493832,-101
+Meatboypizza,"Stormrage Signet Ring",32497,"Black Temple",Illidan Stormrage,1648493752,-102
+Cheliôs,"Helm of the Forgotten Vanquisher",31096,"Black Temple",Illidan Stormrage,1647896893,0
+Rhovas,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1647896843,-100
+Kvitravn,"Scepter of Purification",30911,"Black Temple",Illidan Stormrage,1647896796,-81
+Rhovas,"Mail of Fevered Pursuit",30907,"Black Temple",Illidan Stormrage,1647896738,0
+Nariyell,"Don Rodrigo's Poncho",30899,"Black Temple",Illidan Stormrage,1647896295,0
+Tanooki,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1647896241,-20
+Fabilicious,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1647896194,0
+Sealtwist,"Quickstrider Moccasins",30880,"Black Temple",Illidan Stormrage,1647894518,0
+Decerabia,"Anetheron's Noose",30888,"Black Temple",Illidan Stormrage,1647894421,-101
+Marveluos,"Blessed Adamantite Bracers",30862,"Black Temple",Illidan Stormrage,1647893702,0
+Marveluos,"Stillwater Boots",30873,"Black Temple",Illidan Stormrage,1647893623,0
+Rhovas,"Claw of Molten Fury",32946,"Black Temple",Illidan Stormrage,1647893569,0
+Sianna,"Forest Prowler's Helm",32376,"Black Temple",Illidan Stormrage,1647892347,-20
+Grünerbusch,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1647892304,-81
+Gûârdina,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1647892255,-100
+Schnugge,"Crystal Spire of Karabor",32500,"Black Temple",Illidan Stormrage,1647892154,-103
+Saufisaufii,"Bulwark of Azzinoth",32375,"Black Temple",Illidan Stormrage,1647892111,-100
+Decerabia,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",The Illidari Council,1647891563,0
+Elessartwo,"Leggings of the Forgotten Conqueror",31098,"Black Temple",The Illidari Council,1647891500,-20
+Eludriaqt,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",The Illidari Council,1647891454,-20
+Kvitravn,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",The Illidari Council,1647891396,-20
+Fabilicious,"Shadowmaster's Boots",32366,"Black Temple",Mother Shahraz,1647890917,-100
+Miarra,"Ring of Ancient Knowledge",32527,"Black Temple",Reliquary of Souls,1647889759,-101
+Nariyell,"Elunite Empowered Bracers",32351,"Black Temple",Reliquary of Souls,1647889619,0
+Marveluos,"Pendant of Titans",32362,"Black Temple",Reliquary of Souls,1647889568,0
+Nariyell,"Garments of Temperance",32340,"Black Temple",Reliquary of Souls,1647889522,0
+Schnugge,"Shroud of Forgiveness",32337,"Black Temple",Gurtogg Bloodboil,1647888974,0
+Eludriaqt,"Botanist's Gloves of Growth",32328,"Black Temple",Teron Gorefiend,1647888236,-40
+Nariyell,"Kilt of Immortal Nature",32271,"Black Temple",Shade of Akama,1647887428,0
+Grünerbusch,"Ring of Deceitful Intent",32266,"Black Temple",Shade of Akama,1647887382,-20
+Marveluos,"Legionkiller",32253,"Black Temple",Supremus,1647886553,0
+Sealtwist,"Tide-stomper's Greaves",32245,"Black Temple",High Warlord Naj'entus,1647885906,0
+Axynia,"Cowl of the Illidari High Lord",32525,"Black Temple",Illidan Stormrage,1647292672,-30
+Fabilicious,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1647292584,-30
+Yunastarz,"Chestguard of the Forgotten Vanquisher",31090,"Black Temple",Illidan Stormrage,1647292545,-100
+Nariyell,"Cloak of the Illidari Council",32331,"Black Temple",Illidan Stormrage,1647292501,-101
+Kair,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1647292422,-100
+Saufisaufii,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1647292385,-101
+Hotmeplz,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1647291202,-60
+Tanooki,"Pauldrons of the Forgotten Protector",31103,"Black Temple",Mother Shahraz,1647291108,-102
+Axynia,"Leggings of Devastation",32367,"Black Temple",Mother Shahraz,1647291014,0
+Axynia,"Blood-cursed Shoulderpads",32338,"Black Temple",Mother Shahraz,1647290917,-20
+Wøllepetry,"Unstoppable Aggressor's Ring",32335,"Black Temple",Gurtogg Bloodboil,1647290260,-20
+Yunastarz,"Pendant of Titans",32362,"Black Temple",Gurtogg Bloodboil,1647289987,0
+Schnugge,"Cowl of Benevolence",32329,"Black Temple",Gurtogg Bloodboil,1647289855,0
+Axynia,"Robe of the Shadow Council",32327,"Black Temple",Gurtogg Bloodboil,1647289764,0
+Marveluos,"Grips of Silent Justice",32278,"Black Temple",Gurtogg Bloodboil,1647289663,0
+Wøllepetry,"Praetorian's Legguards",32263,"Black Temple",Gurtogg Bloodboil,1647289579,0
+Marveluos,"Pauldrons of Abyssal Fury",32250,"Black Temple",Teron Gorefiend,1647288368,0
+Fabilicious,"Choker of Endless Nightmares",32260,"Black Temple",Teron Gorefiend,1647288299,-20
+Designshock,"Mantle of Darkness",32377,"Black Temple",Shade of Akama,1647287232,0
+Saufisaufii,"Tide-stomper's Greaves",32245,"Black Temple",High Warlord Naj'entus,1647286149,0
+Fabilicious,"Helm of the Forgotten Vanquisher",31096,"Black Temple",High Warlord Naj'entus,1647286062,-20
+Ziegenbub,"Helm of the Forgotten Protector",31095,"Black Temple",High Warlord Naj'entus,1647285944,-100
+Rhovas,"Helm of the Forgotten Protector",31095,"Black Temple",High Warlord Naj'entus,1647285842,-100
+Ruzak,"Gloves of the Forgotten Conqueror",31092,"Black Temple",High Warlord Naj'entus,1647285750,-100
+Designshock,"Gloves of the Forgotten Protector",31094,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647285487,-20
+Hotmeplz,"Apostle of Argus",30908,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647285259,-20
+Rethna,"Legguards of Endless Rage",30903,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647285171,0
+Designshock,"Shady Dealer's Pantaloons",30898,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647285101,0
+Rethna,"Belt of Seething Fury",30915,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647283303,0
+Sianna,"Choker of Serrated Blades",32591,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647282602,-20
+Tanooki,"Bastion of Light",30882,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647282269,0
+Sianna,"Tracker's Blade",30865,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647281540,-20
+Axynia,"Chronicle of Dark Secrets",30872,"Coilfang: Serpentshrine Cavern",Illidan Stormrage,1647281487,-50
+Eludriaqt,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1646689248,-20
+Ziegenbub,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1646689202,0
+Nexîana,"Bow-stitched Leggings",30900,"Black Temple",Illidan Stormrage,1646689116,0
+Yunastarz,"Helm of the Forgotten Vanquisher",31096,"Black Temple",Illidan Stormrage,1646689067,-100
+Nybbasa,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1646689018,-100
+Cheliôs,"Tempest of Chaos",30910,"Black Temple",Illidan Stormrage,1646688929,-103
+Noelleon,"Kaz'rogal's Hardened Heart",30889,"Black Temple",Illidan Stormrage,1646687433,0
+Meatboypizza,"Don Alejandro's Money Belt",30879,"Black Temple",Illidan Stormrage,1646686346,-100
+Schnugge,"Hatefury Mantle",30884,"Black Temple",Illidan Stormrage,1646686299,0
+Sealtwist,"Furious Shackles",30861,"Black Temple",Illidan Stormrage,1646685651,0
+Tanooki,"Stillwater Boots",30873,"Black Temple",Illidan Stormrage,1646685601,0
+Cheliôs,"Hellfire-Encased Pendant",32589,"Black Temple",Illidan Stormrage,1646685532,0
+Kair,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1646685109,0
+Ziegenbub,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1646684974,-101
+Kvitravn,"Memento of Tyrande",32496,"Black Temple",Illidan Stormrage,1646684871,-101
+Fabilicious,"Stormrage Signet Ring",32497,"Black Temple",Illidan Stormrage,1646684769,-100
+Sianna,"Leggings of the Forgotten Protector",31100,"Black Temple",The Illidari Council,1646683290,-30
+Eludriaqt,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",The Illidari Council,1646683230,-40
+Sealtwist,"Helm of the Illidari Shatterer",32373,"Black Temple",The Illidari Council,1646683170,0
+Portía,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1646682334,0
+Elessartwo,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1646682248,-20
+Sealtwist,"Tome of the Lightbringer",32368,"Black Temple",Mother Shahraz,1646682198,0
+Kair,"Ring of Ancient Knowledge",32527,"Black Temple",Reliquary of Souls,1646681100,-101
+Sianna,"Boneweave Girdle",32346,"Black Temple",Reliquary of Souls,1646680893,-20
+Kvitravn,"Touch of Inspiration",32350,"Black Temple",Reliquary of Souls,1646680806,0
+Nariyell,"Staff of Immaculate Recovery",32344,"Black Temple",Gurtogg Bloodboil,1646680221,0
+Gûârdina,"Totem of Ancestral Guidance",32330,"Black Temple",Teron Gorefiend,1646679147,0
+Nariyell,"Wristbands of Divine Influence",32513,"Black Temple",Shade of Akama,1646678091,0
+Nexîana,"Choker of Endless Nightmares",32260,"Black Temple",Supremus,1646677307,-100
+Elessartwo,"Ring of Captured Storms",32247,"Black Temple",High Warlord Naj'entus,1646676671,0
+Nexîana,"Rising Tide",32236,"Black Temple",High Warlord Naj'entus,1646676549,0
+Saufisaufii,"Glimmering Steel Mantle",30878,"Black Temple",Illidan Stormrage,1646084545,-21
+Elessartwo,"Heart of Darkness",32428,"Black Temple",Illidan Stormrage,1646084489,-100
+Miarra,"Pattern: Mantle of Nimble Thought",32755,"Black Temple",Illidan Stormrage,1646084370,-20
+Cheliôs,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1646084315,0
+Gûârdina,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1646084258,-20
+Meatboypizza,"Boundless Agony",30901,"Black Temple",Illidan Stormrage,1646084194,-100
+Sianna,"Mail of Fevered Pursuit",30907,"Black Temple",Illidan Stormrage,1646084153,-20
+Nariyell,"Robes of Rhonin",30913,"Black Temple",Illidan Stormrage,1646084076,0
+Rethna,"Helm of the Forgotten Conqueror",31097,"Black Temple",Illidan Stormrage,1646083939,-40
+Rethna,"Razorfury Mantle",30917,"Black Temple",Illidan Stormrage,1646082605,0
+Rhovas,"Beast-tamer's Shoulders",30892,"Black Temple",Illidan Stormrage,1646082508,0
+Laveriá,"Chronicle of Dark Secrets",30872,"Black Temple",Illidan Stormrage,1646080781,0
+Fabilicious,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",Illidan Stormrage,1646080202,0
+Grünerbusch,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",Illidan Stormrage,1646080137,-20
+Meatboypizza,"Black Bow of the Betrayer",32336,"Black Temple",Illidan Stormrage,1646080053,0
+Nexîana,"Madness of the Betrayer",32505,"Black Temple",Illidan Stormrage,1646079956,-100
+Nariyell,"The Skull of Gul'dan",32483,"Black Temple",Illidan Stormrage,1646079815,-103
+Fabilicious,"Warglaive of Azzinoth",32838,"Black Temple",Illidan Stormrage,1646079397,-103
+Miarra,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1646079336,-60
+Saufisaufii,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1646079291,-80
+Nariyell,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1646077513,0
+Cheliôs,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1646077438,0
+Pheneal,"Nadina's Pendant of Purity",32370,"Black Temple",Mother Shahraz,1646077236,-20
+Saufisaufii,"Illidari Runeshield",34011,"Black Temple",Mother Shahraz,1646077147,0
+Mimimaus,"Grips of Damnation",32347,"Black Temple",Reliquary of Souls,1646076026,0
+Nariyell,"Naturewarden's Treads",32352,"Black Temple",Reliquary of Souls,1646075965,0
+Rethna,"Girdle of Stability",32333,"Black Temple",Gurtogg Bloodboil,1646075411,0
+Hotmeplz,"Belt of Primal Majesty",32339,"Black Temple",Gurtogg Bloodboil,1646075323,0
+Wøllepetry,"Twisted Blades of Zarak",32326,"Black Temple",Teron Gorefiend,1646074417,0
+Ruzak,"Ring of Ancient Knowledge",32527,"Black Temple",Shade of Akama,1646073746,-101
+Marveluos,"Praetorian's Legguards",32263,"Black Temple",Shade of Akama,1646073461,0
+Wøllepetry,"Grips of Silent Justice",32278,"Black Temple",Shade of Akama,1646073393,0
+Mimimaus,"Naturalist's Preserving Cinch",32258,"Black Temple",Supremus,1646072693,-100
+Pheneal,"Felstone Bulwark",32255,"Black Temple",Supremus,1646072570,-30
+Rhovas,"Halberd of Desolation",32248,"Black Temple",High Warlord Naj'entus,1646071996,-20
+Cheliôs,"Focused Mana Bindings",32270,"Black Temple",Gurtogg Bloodboil,1646070494,0
+Grünerbusch,"Helm of the Forgotten Vanquisher",31096,"Black Temple",Illidan Stormrage,1645480122,-102
+Tanooki,"Helm of the Forgotten Protector",31095,"Black Temple",Illidan Stormrage,1645480090,-100
+Saufisaufii,"Antonidas's Aegis of Rapt Concentration",30909,"Black Temple",Illidan Stormrage,1645480066,0
+Wøllepetry,"Cataclysm's Edge",30902,"Black Temple",Illidan Stormrage,1645480044,-20
+Yunastarz,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Illidan Stormrage,1645479576,-80
+Meatboypizza,"Gloves of the Forgotten Protector",31094,"Black Temple",Illidan Stormrage,1645479499,-102
+Rhovas,"Boundless Agony",30901,"Black Temple",Illidan Stormrage,1645479435,-20
+Meatboypizza,"Valestalker Girdle",30919,"Black Temple",Illidan Stormrage,1645478615,0
+Nariyell,"Belt of the Crescent Moon",30914,"Black Temple",Illidan Stormrage,1645478536,0
+Rhovas,"Don Alejandro's Money Belt",30879,"Black Temple",Illidan Stormrage,1645477404,-20
+Kvitravn,"Hammer of Judgement",34009,"Black Temple",Illidan Stormrage,1645477001,-20
+Yunastarz,"Pepe's Shroud of Pacification",34010,"Black Temple",Illidan Stormrage,1645476859,0
+Mimimaus,"Rejuvenating Bracers",30868,"Black Temple",Illidan Stormrage,1645476640,0
+Rhovas,"Black Bow of the Betrayer",32336,"Black Temple",Illidan Stormrage,1645475695,-20
+Mimimaus,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1645475675,-101
+Marveluos,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1645475649,-101
+Nariyell,"Cowl of the Illidari High Lord",32525,"Black Temple",Illidan Stormrage,1645475563,0
+Nexîana,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1645475514,-80
+Ziegenbub,"Leggings of the Forgotten Protector",31100,"Black Temple",Illidan Stormrage,1645475497,-100
+Wøllepetry,"Helm of the Illidari Shatterer",32373,"Black Temple",The Illidari Council,1645474365,-20
+Grünerbusch,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1645472804,0
+Yunastarz,"Pauldrons of the Forgotten Vanquisher",31102,"Black Temple",Mother Shahraz,1645472733,-20
+Saufisaufii,"Tome of the Lightbringer",32368,"Black Temple",Mother Shahraz,1645472627,0
+Wøllepetry,"Band of Devastation",32526,"Black Temple",Reliquary of Souls,1645472208,-20
+Gûârdina,"Naturewarden's Treads",32352,"Black Temple",Reliquary of Souls,1645471502,0
+Portía,"Translucent Spellthread Necklace",32349,"Black Temple",Reliquary of Souls,1645471452,0
+Eludriaqt,"Shroud of Forgiveness",32337,"Black Temple",Gurtogg Bloodboil,1645470790,-20
+Wøllepetry,"Leggings of Divine Retribution",32341,"Black Temple",Gurtogg Bloodboil,1645470715,-20
+Noelleon,"Shadowmoon Destroyer's Drape",32323,"Black Temple",Teron Gorefiend,1645469804,-101
+Kvitravn,"Cowl of Benevolence",32329,"Black Temple",Teron Gorefiend,1645469724,-20
+Elessartwo,"Blind-Seers Icon",32361,"Black Temple",Shade of Akama,1645468777,0
+Kvitravn,"Wristbands of Divine Influence",32513,"Black Temple",Shade of Akama,1645468699,0
+Fabilicious,"Nether Shadow Tunic",32252,"Black Temple",Supremus,1645468395,0
+Marveluos,"Band of the Abyssal Lord",32261,"Black Temple",Supremus,1645468291,0
+Mimimaus,"Guise of the Tidal Lurker",32240,"Black Temple",Supremus,1645467978,0
+Nexîana,"Fists of Mukoa",32234,"Black Temple",High Warlord Naj'entus,1645467530,-20
+Elessartwo,"Ring of Ancient Knowledge",32527,"Black Temple",High Warlord Naj'entus,1645467471,-103
+Cheliôs,"Cowl of the Illidari High Lord",32525,"Black Temple",Illidan Stormrage,1644871374,0
+Kvitravn,"Chestguard of the Forgotten Conqueror",31089,"Black Temple",Illidan Stormrage,1644871317,-100
+Tanooki,"Chestguard of the Forgotten Protector",31091,"Black Temple",Illidan Stormrage,1644871268,-103
+Mimimaus,"Shard of Azzinoth",32471,"Black Temple",Illidan Stormrage,1644871208,0
+Laveriá,"Leggings of the Forgotten Vanquisher",31099,"Black Temple",Illidan Stormrage,1644871126,-102
+Ruzak,"Leggings of the Forgotten Conqueror",31098,"Black Temple",Illidan Stormrage,1644871079,-101
+Nariyell,"Belt of Divine Guidance",32519,"Black Temple",Illidan Stormrage,1644871036,0
+Kvitravn,"Leggings of Devastation",32367,"Black Temple",Mother Shahraz,1644868073,0
+Pheneal,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1644868000,-100
+Saufisaufii,"Pauldrons of the Forgotten Conqueror",31101,"Black Temple",Mother Shahraz,1644867951,-101
+Gûârdina,"Helm of the Forgotten Protector",31095,"Black Temple",Archimonde,1644867388,-103
+Marveluos,"Legguards of Endless Rage",30903,"Black Temple",Archimonde,1644867188,0
+Miarra,"Helm of the Forgotten Conqueror",31097,"Black Temple",Archimonde,1644867018,-101
+Kvitravn,"Robes of Rhonin",30913,"Black Temple",Archimonde,1644866845,0
+Sealtwist,"Bow-stitched Leggings",30900,"Black Temple",Archimonde,1644866409,-40
+Sianna,"Gloves of the Forgotten Protector",31094,"Black Temple",Gurtogg Bloodboil,1644865185,-20
+Kair,"Gloves of the Forgotten Conqueror",31092,"Black Temple",Gurtogg Bloodboil,1644865128,-50
+Sealtwist,"Hammer of Judgement",34009,"Black Temple",Gurtogg Bloodboil,1644864959,0
+Sianna,"Claw of Molten Fury",32946,"Black Temple",Gurtogg Bloodboil,1644864655,0
+Fabilicious,"Claw of Molten Fury",32946,"Black Temple",Gurtogg Bloodboil,1644864153,0
+Ruzak,"Nethervoid Cloak",32590,"Black Temple",Gurtogg Bloodboil,1644863983,0
+Kvitravn,"Hatefury Mantle",30884,"Black Temple",Gurtogg Bloodboil,1644862992,0
+Nexîana,"Choker of Serrated Blades",32591,"Black Temple",Gurtogg Bloodboil,1644862519,-101
+Portía,"Chronicle of Dark Secrets",30872,"Black Temple",Gurtogg Bloodboil,1644862312,0
+Ziegenbub,"Shroud of the Final Stand",34012,"Black Temple",Gurtogg Bloodboil,1644860490,-20
+Ziegenbub,"Guise of the Tidal Lurker",32240,"Black Temple",Gurtogg Bloodboil,1644860430,-20
+Eludriaqt,"Belt of Primal Majesty",32339,"Black Temple",Gurtogg Bloodboil,1644860275,-20
+Sealtwist,"Torch of the Damned",32332,"Black Temple",Gurtogg Bloodboil,1644860227,-40
+Zyrno,"Shadow-walker's Cord",32265,"Black Temple",Gurtogg Bloodboil,1644860200,-20
+Nariyell,"Gloves of the Forgotten Vanquisher",31093,"Black Temple",Gurtogg Bloodboil,1644262746,0
+Marveluos,"Glory of the Defender",30896,"Black Temple",Gurtogg Bloodboil,1644262490,0
+Sianna,"Bristleblitz Striker",30906,"Black Temple",Gurtogg Bloodboil,1644262423,-101
+Eludriaqt,"Pillar of Ferocity",30883,"Black Temple",Gurtogg Bloodboil,1644262324,0
+Kair,"Helm of the Forgotten Conqueror",31097,"Black Temple",Gurtogg Bloodboil,1644262284,-100
+Pheneal,"Helm of the Forgotten Conqueror",31097,"Black Temple",Gurtogg Bloodboil,1644262165,-101
+Rhovas,"Gloves of the Forgotten Protector",31094,"Black Temple",Gurtogg Bloodboil,1644262094,-101
+Mimimaus,"Hammer of Atonement",30918,"Black Temple",Gurtogg Bloodboil,1644261608,-103
+Wøllepetry,"Blade of Infamy",30881,"Black Temple",Gurtogg Bloodboil,1644261565,-103
+Kvitravn,"Boots of the Divine Light",32609,"Black Temple",Gurtogg Bloodboil,1644261510,-50
+Kvitravn,"Angelista's Sash",30895,"Black Temple",Gurtogg Bloodboil,1644261413,-20
+Ziegenbub,"Howling Wind Bracers",30869,"Black Temple",Gurtogg Bloodboil,1644261372,-20
+Rhovas,"Bracers of the Pathfinder",30864,"Black Temple",Gurtogg Bloodboil,1644261329,0
+Wøllepetry,"Pepe's Shroud of Pacification",34010,"Black Temple",Gurtogg Bloodboil,1644261205,0
+Marveluos,"Pepe's Shroud of Pacification",34010,"Black Temple",Gurtogg Bloodboil,1644261189,0
+Saufisaufii,"Tempest of Chaos",30910,"Black Temple",Gurtogg Bloodboil,1643665793,-103
+Fabilicious,"Warglaive of Azzinoth",32837,"Black Temple",Gurtogg Bloodboil,1643665718,-103
+Meatboypizza,"Messenger of Fate",32269,"Black Temple",Gurtogg Bloodboil,1643665089,0
+Westologe,"Shroud of the Final Stand",34012,"Black Temple",Gurtogg Bloodboil,1643665022,-100
+Nexîana,"Nether Shadow Tunic",32252,"Black Temple",Gurtogg Bloodboil,1643664976,-81
+Nexîana,"Syphon of the Nathrezim",32262,"Black Temple",Gurtogg Bloodboil,1643664918,-20
+Nexîana,"Rising Tide",32236,"Black Temple",Gurtogg Bloodboil,1643664861,0
+Noelleon,"Grips of Silent Justice",32278,"Black Temple",Gurtogg Bloodboil,1643664759,-103
+Miarra,"Wristbands of Divine Influence",32513,"Black Temple",Gurtogg Bloodboil,1643664661,-20
+Cheliôs,"Blood-cursed Shoulderpads",32338,"Black Temple",Gurtogg Bloodboil,1643664607,0
+Miarra,"Cowl of Benevolence",32329,"Black Temple",Gurtogg Bloodboil,1643664518,-20
+Marveluos,"Rifle of the Stoic Guardian",32325,"Black Temple",Teron Gorefiend,1643663403,0
+Saufisaufii,"Pearl Inlaid Boots",32243,"Black Temple",Supremus,1643660940,0
+Kvitravn,"Leggings of Eternity",30912,"Gruul's Lair",Abomination,1643658469,-103
+Nariyell,"Chronicle of Dark Secrets",30872,"Gruul's Lair",Abomination,1643658359,-101
+Portía,"Helm of the Forgotten Conqueror",31097,"Gruul's Lair",Abomination,1643658261,-100
+Ruzak,"Helm of the Forgotten Conqueror",31097,"Gruul's Lair",Abomination,1643658243,-102
+Nariyell,"Blue Suede Shoes",30894,"Gruul's Lair",Abomination,1643658054,0
+Bolwerk,"Midnight Chestguard",30905,"Gruul's Lair",Abomination,1643658007,-101
+Grünerbusch,"Gloves of the Forgotten Vanquisher",31093,"Gruul's Lair",Abomination,1643657937,0
+Pnemea,"Gloves of the Forgotten Vanquisher",31093,"Gruul's Lair",Abomination,1643657922,0
+Wøllepetry,"Glory of the Defender",30896,"Gruul's Lair",Abomination,1643656825,0
+Tanooki,"Sun-touched Chain Leggings",30893,"Gruul's Lair",Abomination,1643656757,0
+Marveluos,"The Unbreakable Will",30874,"Gruul's Lair",Abomination,1643654891,0
+Miarra,"Nethervoid Cloak",32590,"Gruul's Lair",Abomination,1643654610,-40
+Grünerbusch,"Pepe's Shroud of Pacification",34010,"Gruul's Lair",Abomination,1643654525,-20
+Grünerbusch,"Pillar of Ferocity",30883,"Gruul's Lair",Abomination,1643654415,-20
+Nexîana,"Star-Strider Boots",29951,"Tempest Keep",High Astromancer Solarian,1643055661,0
+Schnugge,"Pauldrons of the Vanquished Defender",30249,"Tempest Keep",Void Reaver,1643055334,-101
+Portía,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1643055269,0
+Dschäinheal,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1643055183,-20
+Marveluos,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Void Reaver,1643055035,0
+Dschäinheal,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1643054507,-20
+Zyrno,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1643054478,-100
+Laveriá,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1643054362,-100
+Meatboypizza,"Leggings of Murderous Intent",29995,"Tempest Keep",Kael'thas Sunstrider,1643054237,0
+Rhovas,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1643054074,-102
+Miarra,"Talisman of the Sun King",29923,"Tempest Keep",Al'ar,1643052983,-20
+Sianna,"Claw of the Phoenix",29948,"Tempest Keep",Al'ar,1643052925,-100
+Dschäinheal,"Girdle of Fallen Stars",30030,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643052313,0
+Nariyell,"Gloves of the Vanquished Defender",30240,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643052214,0
+Dschäinheal,"World Breaker",30090,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1643051277,0
+Wøllepetry,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1643050976,0
+Dschäinheal,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1643050825,0
+Dschäinheal,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050444,0
+Nariyell,"Gnarled Chestpiece of the Ancients",30075,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050327,0
+Fridge,"Serpent-Coil Braid",30720,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1643050203,0
+Meatboypizza,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049727,0
+Lightboi,"The Seal of Danzalar",33054,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049579,0
+Miarra,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049238,-20
+Grünerbusch,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",The Lurker Below,1643049200,-101
+Meatboypizza,"Serpent Spine Longbow",30105,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048730,-103
+Portía,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048681,-102
+Sealtwist,"Shoulderpads of the Stranger",30055,"Coilfang: Serpentshrine Cavern",Lady Vashj,1643048626,-103
+Gûârdina,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1642450454,0
+Elessartwo,"Wand of the Forgotten Star",29982,"Tempest Keep",a,1642450338,0
+Pheneal,"Girdle of Fallen Stars",30030,"Tempest Keep",Void Reaver,1642450114,-20
+Portía,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1642449774,0
+Pheneal,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1642449646,-20
+Nexîana,"Band of the Ranger-General",29997,"Tempest Keep",Kael'thas Sunstrider,1642449229,-102
+Pheneal,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1642449111,-20
+Miarra,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1642449039,-20
+Miarra,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1642449005,0
+Nariyell,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1642448937,-102
+Lightboi,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1642448864,-20
+Miarra,"Band of Al'ar",29922,"Tempest Keep",Al'ar,1642447871,-20
+Marveluos,"Phoenix-Wing Cloak",29925,"Tempest Keep",Al'ar,1642447807,0
+Grünerbusch,"Gloves of the Vanquished Defender",30240,"Tempest Keep",Al'ar,1642447732,0
+Noelleon,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1642446867,0
+Mimimaus,"True-Aim Stalker Bands",30091,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1642446731,0
+Nexîana,"World Breaker",30090,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445668,0
+Wøllepetry,"Razor-Scale Battlecloak",30098,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445551,0
+Mimimaus,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1642445447,0
+Rotona,"Boots of Effortless Striking",30060,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1642445085,0
+Mimimaus,"Tempest-Strider Boots",30066,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444981,0
+Kvitravn,"Wraps of Purification",32516,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1642444864,0
+Nariyell,"Runetotem's Mantle",30111,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444495,0
+Marveluos,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444432,0
+Elessartwo,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444368,-101
+Sianna,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1642444289,-102
+Bolwerk,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1641845629,0
+Grünerbusch,"Pauldrons of the Vanquished Defender",30249,"Tempest Keep",Void Reaver,1641845263,-102
+Rhovas,"Twinblade of the Phoenix",29993,"Tempest Keep",Kael'thas Sunstrider,1641844849,0
+Hotmeplz,"Sunshower Light Cloak",29989,"Tempest Keep",Kael'thas Sunstrider,1641844781,-103
+Wacabo,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1641844717,0
+Ruzak,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1641844637,-101
+Keyanu,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1641844538,-20
+Wacabo,"Gloves of the Vanquished Hero",30241,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842621,0
+Eludriaqt,"Gloves of the Vanquished Defender",30240,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842547,0
+Miarra,"Leggings of the Vanquished Defender",30246,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842471,0
+Keyanu,"Soul-Strider Boots",30100,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641842386,0
+Wacabo,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1641841091,0
+Fumi,"Boots of Courage Unending",30027,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1641840974,0
+Fumi,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1641840883,0
+Wacabo,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalkerss,1641840568,0
+Eludriaqt,"Grove-Bands of Remulos",30062,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840501,0
+Cheliôs,"Velvet Boots of the Guardian",30067,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840417,-20
+Fumi,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1641840306,-100
+Laveriá,"Helm of the Vanquished Hero",30244,"Coilfang: Serpentshrine Cavern",The Lurker Below,1641839811,-102
+Wacabo,"Cobra-Lash Boots",30104,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641839217,0
+Kair,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641839093,-100
+Fridge,"Fang of the Leviathan",30095,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641244300,-101
+Portía,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1641240273,-100
+Hotmeplz,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1641239755,0
+Tanooki,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1641239675,0
+Kvitravn,"Pauldrons of the Vanquished Defender",30249,"Tempest Keep",Void Reaver,1641239592,-101
+Pheneal,"Sunshower Light Cloak",29989,"Tempest Keep",Kael'thas Sunstrider,1641239156,-103
+Meatboypizza,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1641239039,0
+Mimimaus,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1641238998,-20
+Schnugge,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1641238951,-103
+Noelleon,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1641238878,0
+Kvitravn,"Earring of Soulful Meditation",30665,"Tempest Keep",Kael'thas Sunstrider,1641238787,0
+Kvitravn,"Earring of Soulful Meditation",30665,"Tempest Keep",Kael'thas Sunstrider,1641238784,0
+Mimimaus,"World Breaker",30090,"Tempest Keep",Al'ar,1641238178,0
+Marveluos,"Fang of Vashj",30103,"Tempest Keep",Al'ar,1641238103,0
+Marveluos,"Razor-Scale Battlecloak",30098,"Tempest Keep",Al'ar,1641238040,0
+Mimimaus,"Leggings of the Vanquished Champion",30245,"Tempest Keep",Al'ar,1641237923,0
+Wøllepetry,"Gloves of the Vanquished Defender",30240,"Tempest Keep",Al'ar,1641237844,0
+Mimimaus,"Gloves of the Vanquished Champion",30239,"Tempest Keep",Al'ar,1641237791,0
+Fabilicious,"Arcanite Steam-Pistol",29949,"Tempest Keep",Al'ar,1641237672,0
+Sealtwist,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234189,0
+Nexîana,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1641234168,0
+Marveluos,"Pauldrons of the Wardancer",30053,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1641233301,0
+Vècón,"Gloves of the Vanquished Hero",30241,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640636380,0
+Ruzak,"Fang of the Leviathan",30095,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640636317,-100
+Vècón,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635816,0
+Cheliôs,"Leggings of the Vanquished Hero",30247,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640635801,0
+Nariyell,"Band of the Vigilant",33058,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635297,0
+Mimimaus,"Mantle of the Tireless Tracker",30085,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640635147,0
+Noelleon,"Mallet of the Tides",30058,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634715,0
+Elessartwo,"Vestments of the Sea-Witch",30107,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634644,-102
+Gûârdina,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634568,-80
+Saufisaufii,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640634529,-100
+Sealtwist,"Krakken-Heart Breastplate",30102,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640633760,0
+Wøllepetry,"Pauldrons of the Wardancer",30053,"Tempest Keep",Kael'thas Sunstrider,1640632794,0
+Kair,"Boots of the Shifting Nightmare",30050,"Tempest Keep",Kael'thas Sunstrider,1640632731,0
+Cheliôs,"Royal Cloak of the Sunstriders",29992,"Tempest Keep",Kael'thas Sunstrider,1640632434,-101
+Nexîana,"Rod of the Sun King",29996,"Tempest Keep",Kael'thas Sunstrider,1640632360,-20
+Nexîana,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632309,-20
+Gûârdina,"Chestguard of the Vanquished Champion",30236,"Tempest Keep",Kael'thas Sunstrider,1640632248,-20
+Kair,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640631560,-103
+Saufisaufii,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630832,0
+Nexîana,"Girdle of Fallen Stars",30030,"Tempest Keep",High Astromancer Solarian,1640630723,0
+Vècón,"Star-Strider Boots",29951,"Tempest Keep",High Astromancer Solarian,1640630643,-20
+Ziegenbub,"Worldstorm Gauntlets",29976,"Tempest Keep",High Astromancer Solarian,1640630550,-100
+Meatboypizza,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640630047,0
+Kvitravn,"Cowl of the Grand Engineer",29986,"Tempest Keep",Void Reaver,1640629949,0
+Cheliôs,"Pauldrons of the Vanquished Hero",30250,"Tempest Keep",Void Reaver,1640629875,0
+Tanooki,"Gloves of the Searing Grip",29947,"Tempest Keep",Al'ar,1640629016,0
+Mimimaus,"Phoenix-Ring of Rebirth",29920,"Tempest Keep",Al'ar,1640628935,0
+Noelleon,"Talon of Azshara",30082,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640031613,-101
+Kvitravn,"Illidari Shoulderpads",30079,"Coilfang: Serpentshrine Cavern",Morogrim Tidewalker,1640031573,0
+Gûârdina,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031233,0
+Mimimaus,"Leggings of the Vanquished Champion",30245,"Coilfang: Serpentshrine Cavern",Fathom-Lord Karathress,1640031060,0
+Wøllepetry,"Girdle of the Invulnerable",30096,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030377,0
+Nexîana,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030330,0
+Tanooki,"Gloves of the Vanquished Champion",30239,"Coilfang: Serpentshrine Cavern",Leotheras the Blind,1640030313,0
+Eludriaqt,"Wildfury Greatstaff",30021,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029922,0
+Wøllepetry,"Fang of Vashj",30103,"Coilfang: Serpentshrine Cavern",The Lurker Below,1640029700,0
+Nariyell,"Helm of the Vanquished Defender",30243,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029143,-100
+Tanooki,"Helm of the Vanquished Champion",30242,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029074,-102
+Kvitravn,"Lightfathom Scepter",30108,"Coilfang: Serpentshrine Cavern",Lady Vashj,1640029006,-103
+Kvitravn,"Boots of the Shifting Nightmare",30050,"Tempest Keep",Kael'thas Sunstrider,1640028072,0
+Fabilicious,"Ring of Lethality",30052,"Tempest Keep",Kael'thas Sunstrider,1640028013,-101
+Tanooki,"Leggings of Murderous Intent",29995,"Tempest Keep",Kael'thas Sunstrider,1640027070,0
+Rhovas,"Chestguard of the Vanquished Hero",30238,"Tempest Keep",Kael'thas Sunstrider,1640026992,-100
+Wøllepetry,"Chestguard of the Vanquished Defender",30237,"Tempest Keep",Kael'thas Sunstrider,1640026950,-60
+Saufisaufii,"Verdant Sphere",32405,"Tempest Keep",Kael'thas Sunstrider,1640026847,-103
+Gûârdina,"The Nexus Key",29988,"Tempest Keep",Kael'thas Sunstrider,1640026804,-103
+Portía,"Nether Vortex",30183,"Tempest Keep",High Astromancer Solarian,1640026139,0
+Meatboypizza,"Vambraces of Ending",29966,"Tempest Keep",High Astromancer Solarian,1640025858,0
+Ruzak,"Wand of the Forgotten Star",29982,"Tempest Keep",High Astromancer Solarian,1640025749,-101
+Marveluos,"Nether Vortex",30183,"Tempest Keep",Void Reaver,1640025487,0
+Eludriaqt,"Girdle of Zaetar",29984,"Tempest Keep",Void Reaver,1640025209,0
+Gûârdina,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025141,0
+Mimimaus,"Pauldrons of the Vanquished Champion",30248,"Tempest Keep",Void Reaver,1640025118,0
+Kvitravn,"Nether Vortex",30183,"Tempest Keep",Al'ar,1640024627,0
+Rhovas,"Arcanite Steam-Pistol",29949,"Tempest Keep",Al'ar,1640024387,0
+Portía,"Mindstorm Wristbands",29918,"Tempest Keep",Al'ar,1640024312,-102
+Kvitravn,"Nether Vortex",30183,"Tempest Keep",Phoenix-Hawk,1640023717,0
